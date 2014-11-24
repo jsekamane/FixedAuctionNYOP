@@ -2,70 +2,56 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="841.89px" height="595.28px" viewBox="0 0 841.89 595.28" enable-background="new 0 0 841.89 595.28" xml:space="preserve">
-<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M56.469,94.017c-5.233,0-9.469,10.048-9.469,22.466v56.809
-	c0,12.416-4.235,22.465-9.47,22.465c5.234,0,9.47,10.05,9.47,22.468v56.804c0,12.418,4.235,22.466,9.469,22.466"/>
-<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M56.469,338.482c-5.233,0-9.469,10.048-9.469,22.465v56.809
-	c0,12.416-4.235,22.466-9.47,22.466c5.234,0,9.47,10.05,9.47,22.468v56.805c0,12.418,4.235,22.466,9.469,22.466"/>
-<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M460.587,53.565c0-6.598-17.123-11.938-38.281-11.938h-96.798
-	c-21.159,0-38.281-5.34-38.281-11.94c0,6.6-17.124,11.94-38.285,11.94h-96.793c-21.159,0-38.283,5.34-38.283,11.938"/>
-<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M819.382,53.565c0-6.598-17.123-11.938-38.281-11.938h-96.798
-	c-21.159,0-38.281-5.34-38.281-11.94c0,6.6-17.123,11.94-38.284,11.94h-96.794c-21.158,0-38.282,5.34-38.282,11.938"/>
-<text transform="matrix(0 -1 1 0 28.4824 220.7773)" font-family="'MyriadPro-Regular'" font-size="12">Single bid</text>
-<text transform="matrix(0 -1 1 0 93.4824 146.7588)" font-family="'MyriadPro-Regular'" font-size="12">FCFS</text>
-<text transform="matrix(0 -1 1 0 93.4824 269.8433)" font-family="'MyriadPro-Regular'" font-size="12">HIGH</text>
-<text transform="matrix(0 -1 1 0 93.4824 391.4658)" font-family="'MyriadPro-Regular'" font-size="12">FCFS</text>
-<text transform="matrix(0 -1 1 0 93.4824 514.5508)" font-family="'MyriadPro-Regular'" font-size="12">HIGH</text>
-<text transform="matrix(0 -1 1 0 28.4824 485.168)" font-family="'MyriadPro-Regular'" font-size="12">Repeated bidding</text>
-<text transform="matrix(1 0 0 1 606.2188 22)" font-family="'MyriadPro-Regular'" font-size="12">Affiliated values</text>
-<text transform="matrix(1 0 0 1 252.8882 22)" font-family="'MyriadPro-Regular'" font-size="12">Private values</text>
-<text transform="matrix(1 0 0 1 157.439 85)" font-family="'MyriadPro-Regular'" font-size="12">BUY</text>
-<text transform="matrix(1 0 0 1 278.688 85)" font-family="'MyriadPro-Regular'" font-size="12">BID</text>
-<text transform="matrix(1 0 0 1 381.7388 85)" font-family="'MyriadPro-Regular'" font-size="12">BID + BUY</text>
-<text transform="matrix(1 0 0 1 516.0918 85)" font-family="'MyriadPro-Regular'" font-size="12">BUY</text>
-<text transform="matrix(1 0 0 1 637.3398 85)" font-family="'MyriadPro-Regular'" font-size="12">BID</text>
-<text transform="matrix(1 0 0 1 740.3906 85)" font-family="'MyriadPro-Regular'" font-size="12">BID + BUY</text>
+	 width="841.891px" height="595.279px" viewBox="0 0 841.891 595.279" enable-background="new 0 0 841.891 595.279"
+	 xml:space="preserve">
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M56.469,94.017c-5.233,0-9.47,10.048-9.47,22.466v56.81
+	c0,12.416-4.234,22.465-9.47,22.465c5.234,0,9.47,10.05,9.47,22.468v56.804c0,12.418,4.235,22.467,9.47,22.467"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M56.469,338.482c-5.233,0-9.47,10.048-9.47,22.465v56.81
+	c0,12.416-4.234,22.466-9.47,22.466c5.234,0,9.47,10.05,9.47,22.468v56.805c0,12.418,4.235,22.467,9.47,22.467"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M460.588,53.565c0-6.598-17.123-11.938-38.281-11.938h-96.799
+	c-21.158,0-38.28-5.34-38.28-11.94c0,6.601-17.124,11.94-38.285,11.94h-96.793c-21.159,0-38.283,5.34-38.283,11.938"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M819.383,53.565c0-6.598-17.123-11.938-38.281-11.938h-96.798
+	c-21.159,0-38.281-5.34-38.281-11.94c0,6.601-17.123,11.94-38.284,11.94h-96.794c-21.158,0-38.282,5.34-38.282,11.938"/>
+<text transform="matrix(0 -1 1 0 28.4822 220.7766)" font-family="'MyriadPro-Regular'" font-size="12">Single bid</text>
+<text transform="matrix(0 -1 1 0 93.4822 146.759)" font-family="'MyriadPro-Regular'" font-size="12">FCFS</text>
+<text transform="matrix(0 -1 1 0 93.4822 269.843)" font-family="'MyriadPro-Regular'" font-size="12">HIGH</text>
+<text transform="matrix(0 -1 1 0 93.4822 391.4661)" font-family="'MyriadPro-Regular'" font-size="12">FCFS</text>
+<text transform="matrix(0 -1 1 0 93.4822 514.55)" font-family="'MyriadPro-Regular'" font-size="12">HIGH</text>
+<text transform="matrix(0 -1 1 0 28.4822 485.1672)" font-family="'MyriadPro-Regular'" font-size="12">Repeated bidding</text>
+<text transform="matrix(1 0 0 1 606.2185 21.9993)" font-family="'MyriadPro-Regular'" font-size="12">Affiliated values</text>
+<text transform="matrix(1 0 0 1 252.8884 21.9993)" font-family="'MyriadPro-Regular'" font-size="12">Private values</text>
+<text transform="matrix(1 0 0 1 157.4392 84.9993)" font-family="'MyriadPro-Regular'" font-size="12">BUY</text>
+<text transform="matrix(1 0 0 1 278.6882 84.9993)" font-family="'MyriadPro-Regular'" font-size="12">BID</text>
+<text transform="matrix(1 0 0 1 381.739 84.9993)" font-family="'MyriadPro-Regular'" font-size="12">BID + BUY</text>
+<text transform="matrix(1 0 0 1 516.0916 84.9993)" font-family="'MyriadPro-Regular'" font-size="12">BUY</text>
+<text transform="matrix(1 0 0 1 637.3396 84.9993)" font-family="'MyriadPro-Regular'" font-size="12">BID</text>
+<text transform="matrix(1 0 0 1 740.3904 84.9993)" font-family="'MyriadPro-Regular'" font-size="12">BID + BUY</text>
 <g>
 	<rect x="114.152" y="94.017" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.333" height="80.761"/>
-	<text transform="matrix(1 0 0 1 119.0005 105.0005)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 119.0005 146.334)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.4" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
+	<text transform="matrix(1 0 0 1 119.0007 105.0002)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 119.0007 146.3333)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 119.0007 154.7336)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
 	<g>
 		<g>
 			<g opacity="0.3">
 				<rect x="198.526" y="119.333" width="17.634" height="11.667"/>
 			</g>
 			<g>
-				<rect x="197.675" y="118.482" fill="#52718A" width="17.634" height="11.667"/>
+				<rect x="197.675" y="118.482" fill="#52718A" width="17.635" height="11.667"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 200.4375 126.3696)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
+		<text transform="matrix(1 0 0 1 200.4377 126.3694)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
 	</g>
 </g>
 <g>
 	<rect x="233.703" y="94.017" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.333" height="80.761"/>
-	<text transform="matrix(1 0 0 1 238.5513 105.0005)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 238.5513 146.334)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.4" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
+	<text transform="matrix(1 0 0 1 238.5515 105.0002)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 238.5515 146.3333)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 238.5515 154.7336)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
 	<g>
 		<g>
 			<rect x="238.884" y="118.482" fill="#FFFFFF" width="48.486" height="11.667"/>
 			<rect x="238.884" y="118.482" fill="none" stroke="#52718A" stroke-miterlimit="10" width="48.486" height="11.667"/>
-		</g>
-		<defs>
-			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="238.384" y="117.982" width="49.486" height="12.667">
-				
-					<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
-			</filter>
-		</defs>
-		<mask maskUnits="userSpaceOnUse" x="238.384" y="117.982" width="49.486" height="12.667" id="SVGID_1_">
-			<g filter="url(#Adobe_OpacityMaskFilter)">
-				
-					<image overflow="visible" width="223" height="70" xlink:href="C2A7269567C5594D.jpg"  transform="matrix(0.24 0 0 0.24 236.3843 115.9819)">
-				</image>
-			</g>
-		</mask>
-		<g opacity="0.2" mask="url(#SVGID_1_)">
-			<rect x="238.884" y="118.482" width="48.486" height="11.667"/>
-			<rect x="238.884" y="118.482" fill="none" stroke="#000000" stroke-miterlimit="10" width="48.486" height="11.667"/>
 		</g>
 	</g>
 	<g>
@@ -77,34 +63,34 @@
 				<rect x="290.385" y="118.482" fill="#52718A" width="16" height="11.667"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 293.3198 126.3696)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
+		<text transform="matrix(1 0 0 1 293.3201 126.3694)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
 	</g>
-	<text transform="matrix(1 0 0 1 295.6528 146.334)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your bid:</tspan><tspan x="0" y="8.4" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#1:    X.XXX kr. </tspan></text>
+	<text transform="matrix(1 0 0 1 295.6531 146.3333)" font-family="'MyriadPro-Regular'" font-size="7">Your bid:</text>
+	<text transform="matrix(1 0 0 1 295.6531 154.7336)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#1:    X.XXX kr. </text>
 </g>
 <g>
-	<rect x="353.254" y="94.017" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.334" height="80.761"/>
-	<text transform="matrix(1 0 0 1 358.1021 105.0005)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 358.1021 146.334)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.4" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
+	<rect x="353.254" y="94.017" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.335" height="80.761"/>
+	<text transform="matrix(1 0 0 1 358.1023 105.0002)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 358.1023 146.3333)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 358.1023 154.7336)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
 	<g>
 		<g>
 			<rect x="358.435" y="118.482" fill="#FFFFFF" width="48.486" height="11.667"/>
 			<rect x="358.435" y="118.482" fill="none" stroke="#52718A" stroke-miterlimit="10" width="48.486" height="11.667"/>
 		</g>
 		<defs>
-			<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="357.935" y="117.982" width="49.486" height="12.667">
-				
-					<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="357.935" y="117.982" width="49.486" height="12.667">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
 			</filter>
 		</defs>
 		<mask maskUnits="userSpaceOnUse" x="357.935" y="117.982" width="49.486" height="12.667" id="SVGID_2_">
-			<g filter="url(#Adobe_OpacityMaskFilter_1_)">
+			<g filter="url(#Adobe_OpacityMaskFilter)">
 				
-					<image overflow="visible" width="223" height="70" xlink:href="C2A7269567C5594E.jpg"  transform="matrix(0.24 0 0 0.24 355.9351 115.9819)">
+					<image overflow="visible" enable-background="new    " width="229" height="75" xlink:href="C2A7269567C5594E.jpg"  transform="matrix(0.2328 0 0 0.2328 356.0413 115.6526)">
 				</image>
 			</g>
 		</mask>
 		<g opacity="0.2" mask="url(#SVGID_2_)">
-			<rect x="358.435" y="118.482" width="48.486" height="11.667"/>
 			<rect x="358.435" y="118.482" fill="none" stroke="#000000" stroke-miterlimit="10" width="48.486" height="11.667"/>
 		</g>
 	</g>
@@ -117,64 +103,56 @@
 				<rect x="409.936" y="118.482" fill="#52718A" width="16" height="11.667"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 412.8706 126.3696)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
+		<text transform="matrix(1 0 0 1 412.8708 126.3694)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
 	</g>
 	<g>
 		<g>
 			<g opacity="0.3">
-				<rect x="437.627" y="119.333" width="17.635" height="11.667"/>
+				<rect x="437.628" y="119.333" width="17.635" height="11.667"/>
 			</g>
 			<g>
 				<rect x="436.777" y="118.482" fill="#52718A" width="17.633" height="11.667"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 439.5391 126.3696)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
+		<text transform="matrix(1 0 0 1 439.5388 126.3694)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
 	</g>
-	<text transform="matrix(1 0 0 1 415.6528 146.334)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your bid:</tspan><tspan x="0" y="8.4" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#1:    X.XXX kr. </tspan></text>
+	<text transform="matrix(1 0 0 1 415.6531 146.3333)" font-family="'MyriadPro-Regular'" font-size="7">Your bid:</text>
+	<text transform="matrix(1 0 0 1 415.6531 154.7336)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#1:    X.XXX kr. </text>
 </g>
 <g>
 	<rect x="472.805" y="94.017" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.334" height="80.761"/>
-	<text transform="matrix(1 0 0 1 477.6523 105.0005)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 477.6523 146.334)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.4" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
-	<text transform="matrix(1 0 0 1 535.6523 146.334)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Bids:</tspan><tspan x="0" y="8.4" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </tspan><tspan x="0" y="16.8" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </tspan><tspan x="0" y="25.2" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </tspan></text>
+	<text transform="matrix(1 0 0 1 477.6521 105.0002)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 477.6521 146.3333)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 477.6521 154.7336)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
+	<text transform="matrix(1 0 0 1 535.6521 146.3333)" font-family="'MyriadPro-Regular'" font-size="7">Bids:</text>
+	<text transform="matrix(1 0 0 1 535.6521 154.7336)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </text>
+	<text transform="matrix(1 0 0 1 535.6521 163.134)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </text>
+	<text transform="matrix(1 0 0 1 535.6521 171.5334)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </text>
 	<g>
 		<g>
 			<g opacity="0.3">
 				<rect x="557.178" y="119.333" width="17.635" height="11.667"/>
 			</g>
 			<g>
-				<rect x="556.328" y="118.482" fill="#52718A" width="17.633" height="11.667"/>
+				<rect x="556.328" y="118.482" fill="#52718A" width="17.634" height="11.667"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 559.0898 126.3696)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
+		<text transform="matrix(1 0 0 1 559.0896 126.3694)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
 	</g>
 </g>
 <g>
 	<rect x="592.355" y="94.017" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.334" height="80.761"/>
-	<text transform="matrix(1 0 0 1 597.2031 105.0005)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 597.2031 146.334)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.4" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
-	<text transform="matrix(1 0 0 1 655.2031 146.334)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Bids:</tspan><tspan x="0" y="8.4" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </tspan><tspan x="0" y="16.8" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </tspan><tspan x="0" y="25.2" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </tspan></text>
+	<text transform="matrix(1 0 0 1 597.2029 105.0002)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 597.2029 146.3333)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 597.2029 154.7336)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
+	<text transform="matrix(1 0 0 1 655.2029 146.3333)" font-family="'MyriadPro-Regular'" font-size="7">Bids:</text>
+	<text transform="matrix(1 0 0 1 655.2029 154.7336)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </text>
+	<text transform="matrix(1 0 0 1 655.2029 163.134)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </text>
+	<text transform="matrix(1 0 0 1 655.2029 171.5334)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </text>
 	<g>
 		<g>
 			<rect x="597.537" y="118.482" fill="#FFFFFF" width="48.485" height="11.667"/>
 			<rect x="597.537" y="118.482" fill="none" stroke="#52718A" stroke-miterlimit="10" width="48.485" height="11.667"/>
-		</g>
-		<defs>
-			<filter id="Adobe_OpacityMaskFilter_2_" filterUnits="userSpaceOnUse" x="597.037" y="117.982" width="49.485" height="12.667">
-				
-					<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
-			</filter>
-		</defs>
-		<mask maskUnits="userSpaceOnUse" x="597.037" y="117.982" width="49.485" height="12.667" id="SVGID_3_">
-			<g filter="url(#Adobe_OpacityMaskFilter_2_)">
-				
-					<image overflow="visible" width="223" height="70" xlink:href="C2A7269567C5594C.jpg"  transform="matrix(0.24 0 0 0.24 595.0371 115.9819)">
-				</image>
-			</g>
-		</mask>
-		<g opacity="0.2" mask="url(#SVGID_3_)">
-			<rect x="597.537" y="118.482" width="48.485" height="11.667"/>
-			<rect x="597.537" y="118.482" fill="none" stroke="#000000" stroke-miterlimit="10" width="48.485" height="11.667"/>
 		</g>
 	</g>
 	<g>
@@ -186,35 +164,22 @@
 				<rect x="649.037" y="118.482" fill="#52718A" width="16" height="11.667"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 651.9727 126.3696)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
+		<text transform="matrix(1 0 0 1 651.9724 126.3694)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
 	</g>
 </g>
 <g>
 	<rect x="711.906" y="94.017" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.334" height="80.761"/>
-	<text transform="matrix(1 0 0 1 716.7539 105.0005)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 716.7539 146.334)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.4" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
-	<text transform="matrix(1 0 0 1 774.7539 146.334)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Bids:</tspan><tspan x="0" y="8.4" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </tspan><tspan x="0" y="16.8" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </tspan><tspan x="0" y="25.2" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </tspan></text>
+	<text transform="matrix(1 0 0 1 716.7537 105.0002)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 716.7537 146.3333)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 716.7537 154.7336)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
+	<text transform="matrix(1 0 0 1 774.7537 146.3333)" font-family="'MyriadPro-Regular'" font-size="7">Bids:</text>
+	<text transform="matrix(1 0 0 1 774.7537 154.7336)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </text>
+	<text transform="matrix(1 0 0 1 774.7537 163.134)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </text>
+	<text transform="matrix(1 0 0 1 774.7537 171.5334)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </text>
 	<g>
 		<g>
-			<rect x="717.088" y="118.482" fill="#FFFFFF" width="48.485" height="11.667"/>
-			<rect x="717.088" y="118.482" fill="none" stroke="#52718A" stroke-miterlimit="10" width="48.485" height="11.667"/>
-		</g>
-		<defs>
-			<filter id="Adobe_OpacityMaskFilter_3_" filterUnits="userSpaceOnUse" x="716.588" y="117.982" width="49.485" height="12.667">
-				
-					<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
-			</filter>
-		</defs>
-		<mask maskUnits="userSpaceOnUse" x="716.588" y="117.982" width="49.485" height="12.667" id="SVGID_4_">
-			<g filter="url(#Adobe_OpacityMaskFilter_3_)">
-				
-					<image overflow="visible" width="223" height="70" xlink:href="C2A7269567C55940.jpg"  transform="matrix(0.24 0 0 0.24 714.5879 115.9819)">
-				</image>
-			</g>
-		</mask>
-		<g opacity="0.2" mask="url(#SVGID_4_)">
-			<rect x="717.088" y="118.482" width="48.485" height="11.667"/>
-			<rect x="717.088" y="118.482" fill="none" stroke="#000000" stroke-miterlimit="10" width="48.485" height="11.667"/>
+			<rect x="717.089" y="118.482" fill="#FFFFFF" width="48.484" height="11.667"/>
+			<rect x="717.089" y="118.482" fill="none" stroke="#52718A" stroke-miterlimit="10" width="48.484" height="11.667"/>
 		</g>
 	</g>
 	<g>
@@ -223,10 +188,10 @@
 				<rect x="769.438" y="119.333" width="16" height="11.667"/>
 			</g>
 			<g>
-				<rect x="768.588" y="118.482" fill="#52718A" width="16" height="11.667"/>
+				<rect x="768.589" y="118.482" fill="#52718A" width="16" height="11.667"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 771.5234 126.3696)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
+		<text transform="matrix(1 0 0 1 771.5232 126.3694)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
 	</g>
 	<g>
 		<g>
@@ -237,7 +202,7 @@
 				<rect x="795.43" y="118.482" fill="#52718A" width="17.633" height="11.667"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 798.1914 126.3696)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
+		<text transform="matrix(1 0 0 1 798.1912 126.3694)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
 	</g>
 </g>
 <g>
@@ -258,45 +223,30 @@
 				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="13.7521,13.7521" x1="221.486" y1="236.001" x2="221.486" y2="284.134"/>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 119.0005 227.2324)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 119.0005 268.5659)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.4" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
+	<text transform="matrix(1 0 0 1 119.0007 227.2317)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 119.0007 268.5657)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 119.0007 276.9661)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
 	<g>
 		<g>
 			<g opacity="0.3">
 				<rect x="198.526" y="241.564" width="17.634" height="11.667"/>
 			</g>
 			<g>
-				<rect x="197.675" y="240.714" fill="#52718A" width="17.634" height="11.667"/>
+				<rect x="197.675" y="240.714" fill="#52718A" width="17.635" height="11.667"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 200.4375 248.6016)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
+		<text transform="matrix(1 0 0 1 200.4377 248.6018)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
 	</g>
 </g>
 <g>
 	<rect x="233.703" y="216.249" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.333" height="80.761"/>
-	<text transform="matrix(1 0 0 1 238.5513 227.2324)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 238.5513 268.5659)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.4" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
+	<text transform="matrix(1 0 0 1 238.5515 227.2317)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 238.5515 268.5657)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 238.5515 276.9661)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
 	<g>
 		<g>
 			<rect x="238.884" y="240.714" fill="#FFFFFF" width="48.486" height="11.667"/>
 			<rect x="238.884" y="240.714" fill="none" stroke="#52718A" stroke-miterlimit="10" width="48.486" height="11.667"/>
-		</g>
-		<defs>
-			<filter id="Adobe_OpacityMaskFilter_4_" filterUnits="userSpaceOnUse" x="238.384" y="240.214" width="49.486" height="12.667">
-				
-					<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
-			</filter>
-		</defs>
-		<mask maskUnits="userSpaceOnUse" x="238.384" y="240.214" width="49.486" height="12.667" id="SVGID_5_">
-			<g filter="url(#Adobe_OpacityMaskFilter_4_)">
-				
-					<image overflow="visible" width="223" height="70" xlink:href="C2A7269567C55941.jpg"  transform="matrix(0.24 0 0 0.24 236.3843 238.2139)">
-				</image>
-			</g>
-		</mask>
-		<g opacity="0.2" mask="url(#SVGID_5_)">
-			<rect x="238.884" y="240.714" width="48.486" height="11.667"/>
-			<rect x="238.884" y="240.714" fill="none" stroke="#000000" stroke-miterlimit="10" width="48.486" height="11.667"/>
 		</g>
 	</g>
 	<g>
@@ -308,35 +258,20 @@
 				<rect x="290.385" y="240.714" fill="#52718A" width="16" height="11.667"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 293.3198 248.6016)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
+		<text transform="matrix(1 0 0 1 293.3201 248.6018)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
 	</g>
-	<text transform="matrix(1 0 0 1 295.6528 268.5659)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your bid:</tspan><tspan x="0" y="8.4" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#1:    X.XXX kr. </tspan></text>
+	<text transform="matrix(1 0 0 1 295.6531 268.5657)" font-family="'MyriadPro-Regular'" font-size="7">Your bid:</text>
+	<text transform="matrix(1 0 0 1 295.6531 276.9661)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#1:    X.XXX kr. </text>
 </g>
 <g>
-	<rect x="353.254" y="216.249" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.334" height="80.761"/>
-	<text transform="matrix(1 0 0 1 358.1021 227.2324)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 358.1021 268.5659)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.4" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
+	<rect x="353.254" y="216.249" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.335" height="80.761"/>
+	<text transform="matrix(1 0 0 1 358.1023 227.2317)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 358.1023 268.5657)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 358.1023 276.9661)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
 	<g>
 		<g>
 			<rect x="358.435" y="240.714" fill="#FFFFFF" width="48.486" height="11.667"/>
 			<rect x="358.435" y="240.714" fill="none" stroke="#52718A" stroke-miterlimit="10" width="48.486" height="11.667"/>
-		</g>
-		<defs>
-			<filter id="Adobe_OpacityMaskFilter_5_" filterUnits="userSpaceOnUse" x="357.935" y="240.214" width="49.486" height="12.667">
-				
-					<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
-			</filter>
-		</defs>
-		<mask maskUnits="userSpaceOnUse" x="357.935" y="240.214" width="49.486" height="12.667" id="SVGID_6_">
-			<g filter="url(#Adobe_OpacityMaskFilter_5_)">
-				
-					<image overflow="visible" width="223" height="70" xlink:href="C2A7269567C55942.jpg"  transform="matrix(0.24 0 0 0.24 355.9351 238.2139)">
-				</image>
-			</g>
-		</mask>
-		<g opacity="0.2" mask="url(#SVGID_6_)">
-			<rect x="358.435" y="240.714" width="48.486" height="11.667"/>
-			<rect x="358.435" y="240.714" fill="none" stroke="#000000" stroke-miterlimit="10" width="48.486" height="11.667"/>
 		</g>
 	</g>
 	<g>
@@ -348,20 +283,21 @@
 				<rect x="409.936" y="240.714" fill="#52718A" width="16" height="11.667"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 412.8706 248.6016)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
+		<text transform="matrix(1 0 0 1 412.8708 248.6018)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
 	</g>
 	<g>
 		<g>
 			<g opacity="0.3">
-				<rect x="437.627" y="241.564" width="17.635" height="11.667"/>
+				<rect x="437.628" y="241.564" width="17.635" height="11.667"/>
 			</g>
 			<g>
 				<rect x="436.777" y="240.714" fill="#52718A" width="17.633" height="11.667"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 439.5391 248.6016)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
+		<text transform="matrix(1 0 0 1 439.5388 248.6018)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
 	</g>
-	<text transform="matrix(1 0 0 1 415.6528 268.5659)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your bid:</tspan><tspan x="0" y="8.4" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#1:    X.XXX kr. </tspan></text>
+	<text transform="matrix(1 0 0 1 415.6531 268.5657)" font-family="'MyriadPro-Regular'" font-size="7">Your bid:</text>
+	<text transform="matrix(1 0 0 1 415.6531 276.9661)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#1:    X.XXX kr. </text>
 </g>
 <g>
 	<g>
@@ -369,59 +305,50 @@
 		<g>
 			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="580.139,291.01 580.139,297.01 574.139,297.01 			"/>
 			
-				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="10.5927,10.5927" x1="563.546" y1="297.01" x2="484.101" y2="297.01"/>
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="10.5927,10.5927" x1="563.547" y1="297.01" x2="484.101" y2="297.01"/>
 			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="478.805,297.01 472.805,297.01 472.805,291.01 			"/>
 			
 				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="13.7521,13.7521" x1="472.805" y1="277.258" x2="472.805" y2="229.125"/>
 			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="472.805,222.249 472.805,216.249 478.805,216.249 			"/>
 			
-				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="10.5927,10.5927" x1="489.397" y1="216.249" x2="568.843" y2="216.249"/>
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="10.5927,10.5927" x1="489.397" y1="216.249" x2="568.844" y2="216.249"/>
 			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="574.139,216.249 580.139,216.249 580.139,222.249 			"/>
 			
 				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="13.7521,13.7521" x1="580.139" y1="236.001" x2="580.139" y2="284.134"/>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 477.6523 227.2324)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 477.6523 268.5659)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.4" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
-	<text transform="matrix(1 0 0 1 535.6523 268.5659)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Bids:</tspan><tspan x="0" y="8.4" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </tspan><tspan x="0" y="16.8" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </tspan><tspan x="0" y="25.2" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </tspan></text>
+	<text transform="matrix(1 0 0 1 477.6521 227.2317)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 477.6521 268.5657)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 477.6521 276.9661)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
+	<text transform="matrix(1 0 0 1 535.6521 268.5657)" font-family="'MyriadPro-Regular'" font-size="7">Bids:</text>
+	<text transform="matrix(1 0 0 1 535.6521 276.9661)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </text>
+	<text transform="matrix(1 0 0 1 535.6521 285.3655)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </text>
+	<text transform="matrix(1 0 0 1 535.6521 293.7659)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </text>
 	<g>
 		<g>
 			<g opacity="0.3">
 				<rect x="557.179" y="241.564" width="17.633" height="11.667"/>
 			</g>
 			<g>
-				<rect x="556.328" y="240.714" fill="#52718A" width="17.633" height="11.667"/>
+				<rect x="556.328" y="240.714" fill="#52718A" width="17.634" height="11.667"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 559.0898 248.6016)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
+		<text transform="matrix(1 0 0 1 559.0896 248.6018)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
 	</g>
 </g>
 <g>
 	<rect x="592.355" y="216.249" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.334" height="80.761"/>
-	<text transform="matrix(1 0 0 1 597.2031 227.2324)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 597.2031 268.5659)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.4" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
-	<text transform="matrix(1 0 0 1 655.2031 268.5659)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Bids:</tspan><tspan x="0" y="8.4" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </tspan><tspan x="0" y="16.8" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </tspan><tspan x="0" y="25.2" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </tspan></text>
+	<text transform="matrix(1 0 0 1 597.2029 227.2317)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 597.2029 268.5657)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 597.2029 276.9661)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
+	<text transform="matrix(1 0 0 1 655.2029 268.5657)" font-family="'MyriadPro-Regular'" font-size="7">Bids:</text>
+	<text transform="matrix(1 0 0 1 655.2029 276.9661)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </text>
+	<text transform="matrix(1 0 0 1 655.2029 285.3655)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </text>
+	<text transform="matrix(1 0 0 1 655.2029 293.7659)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </text>
 	<g>
 		<g>
 			<rect x="597.537" y="240.714" fill="#FFFFFF" width="48.485" height="11.667"/>
 			<rect x="597.537" y="240.714" fill="none" stroke="#52718A" stroke-miterlimit="10" width="48.485" height="11.667"/>
-		</g>
-		<defs>
-			<filter id="Adobe_OpacityMaskFilter_6_" filterUnits="userSpaceOnUse" x="597.037" y="240.214" width="49.485" height="12.667">
-				
-					<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
-			</filter>
-		</defs>
-		<mask maskUnits="userSpaceOnUse" x="597.037" y="240.214" width="49.485" height="12.667" id="SVGID_7_">
-			<g filter="url(#Adobe_OpacityMaskFilter_6_)">
-				
-					<image overflow="visible" width="223" height="70" xlink:href="C2A7269567C55943.jpg"  transform="matrix(0.24 0 0 0.24 595.0371 238.2139)">
-				</image>
-			</g>
-		</mask>
-		<g opacity="0.2" mask="url(#SVGID_7_)">
-			<rect x="597.537" y="240.714" width="48.485" height="11.667"/>
-			<rect x="597.537" y="240.714" fill="none" stroke="#000000" stroke-miterlimit="10" width="48.485" height="11.667"/>
 		</g>
 	</g>
 	<g>
@@ -433,35 +360,22 @@
 				<rect x="649.037" y="240.714" fill="#52718A" width="16" height="11.667"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 651.9727 248.6016)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
+		<text transform="matrix(1 0 0 1 651.9724 248.6018)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
 	</g>
 </g>
 <g>
 	<rect x="711.906" y="216.249" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.334" height="80.761"/>
-	<text transform="matrix(1 0 0 1 716.7539 227.2324)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 716.7539 268.5659)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.4" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
-	<text transform="matrix(1 0 0 1 774.7539 268.5659)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Bids:</tspan><tspan x="0" y="8.4" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </tspan><tspan x="0" y="16.8" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </tspan><tspan x="0" y="25.2" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </tspan></text>
+	<text transform="matrix(1 0 0 1 716.7537 227.2317)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 716.7537 268.5657)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 716.7537 276.9661)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
+	<text transform="matrix(1 0 0 1 774.7537 268.5657)" font-family="'MyriadPro-Regular'" font-size="7">Bids:</text>
+	<text transform="matrix(1 0 0 1 774.7537 276.9661)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </text>
+	<text transform="matrix(1 0 0 1 774.7537 285.3655)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </text>
+	<text transform="matrix(1 0 0 1 774.7537 293.7659)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </text>
 	<g>
 		<g>
-			<rect x="717.088" y="240.714" fill="#FFFFFF" width="48.485" height="11.667"/>
-			<rect x="717.088" y="240.714" fill="none" stroke="#52718A" stroke-miterlimit="10" width="48.485" height="11.667"/>
-		</g>
-		<defs>
-			<filter id="Adobe_OpacityMaskFilter_7_" filterUnits="userSpaceOnUse" x="716.588" y="240.214" width="49.485" height="12.667">
-				
-					<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
-			</filter>
-		</defs>
-		<mask maskUnits="userSpaceOnUse" x="716.588" y="240.214" width="49.485" height="12.667" id="SVGID_8_">
-			<g filter="url(#Adobe_OpacityMaskFilter_7_)">
-				
-					<image overflow="visible" width="223" height="70" xlink:href="C2A7269567C55959.jpg"  transform="matrix(0.24 0 0 0.24 714.5879 238.2139)">
-				</image>
-			</g>
-		</mask>
-		<g opacity="0.2" mask="url(#SVGID_8_)">
-			<rect x="717.088" y="240.714" width="48.485" height="11.667"/>
-			<rect x="717.088" y="240.714" fill="none" stroke="#000000" stroke-miterlimit="10" width="48.485" height="11.667"/>
+			<rect x="717.089" y="240.714" fill="#FFFFFF" width="48.484" height="11.667"/>
+			<rect x="717.089" y="240.714" fill="none" stroke="#52718A" stroke-miterlimit="10" width="48.484" height="11.667"/>
 		</g>
 	</g>
 	<g>
@@ -470,10 +384,10 @@
 				<rect x="769.438" y="241.564" width="16" height="11.667"/>
 			</g>
 			<g>
-				<rect x="768.588" y="240.714" fill="#52718A" width="16" height="11.667"/>
+				<rect x="768.589" y="240.714" fill="#52718A" width="16" height="11.667"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 771.5234 248.6016)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
+		<text transform="matrix(1 0 0 1 771.5232 248.6018)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
 	</g>
 	<g>
 		<g>
@@ -484,23 +398,24 @@
 				<rect x="795.43" y="240.714" fill="#52718A" width="17.633" height="11.667"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 798.1914 248.6016)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
+		<text transform="matrix(1 0 0 1 798.1912 248.6018)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
 	</g>
 </g>
 <g>
 	<rect x="114.152" y="338.48" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.333" height="80.762"/>
-	<text transform="matrix(1 0 0 1 119.0005 349.4648)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 119.0005 390.7979)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.399" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
+	<text transform="matrix(1 0 0 1 119.0007 349.4641)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 119.0007 390.7981)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 119.0007 399.1965)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
 	<g>
 		<g>
 			<g opacity="0.3">
 				<rect x="198.526" y="363.797" width="17.634" height="11.666"/>
 			</g>
 			<g>
-				<rect x="197.675" y="362.945" fill="#52718A" width="17.634" height="11.668"/>
+				<rect x="197.675" y="362.945" fill="#52718A" width="17.635" height="11.668"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 200.4375 370.834)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
+		<text transform="matrix(1 0 0 1 200.4377 370.8342)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
 	</g>
 	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="210.901" cy="348.039" r="4.408"/>
 	<polyline fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" points="213.075,349.882 210.644,347.719 
@@ -508,29 +423,13 @@
 </g>
 <g>
 	<rect x="233.703" y="338.48" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.333" height="80.762"/>
-	<text transform="matrix(1 0 0 1 238.5513 349.4648)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 238.5513 390.7979)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.399" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
+	<text transform="matrix(1 0 0 1 238.5515 349.4641)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 238.5515 390.7981)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 238.5515 399.1965)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
 	<g>
 		<g>
 			<rect x="238.884" y="362.945" fill="#FFFFFF" width="48.486" height="11.668"/>
 			<rect x="238.884" y="362.945" fill="none" stroke="#52718A" stroke-miterlimit="10" width="48.486" height="11.668"/>
-		</g>
-		<defs>
-			<filter id="Adobe_OpacityMaskFilter_8_" filterUnits="userSpaceOnUse" x="238.384" y="362.445" width="49.486" height="12.668">
-				
-					<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
-			</filter>
-		</defs>
-		<mask maskUnits="userSpaceOnUse" x="238.384" y="362.445" width="49.486" height="12.668" id="SVGID_9_">
-			<g filter="url(#Adobe_OpacityMaskFilter_8_)">
-				
-					<image overflow="visible" width="223" height="70" xlink:href="C2A7269567C5595A.jpg"  transform="matrix(0.24 0 0 0.24 236.3843 360.4453)">
-				</image>
-			</g>
-		</mask>
-		<g opacity="0.2" mask="url(#SVGID_9_)">
-			<rect x="238.884" y="362.945" width="48.486" height="11.668"/>
-			<rect x="238.884" y="362.945" fill="none" stroke="#000000" stroke-miterlimit="10" width="48.486" height="11.668"/>
 		</g>
 	</g>
 	<g>
@@ -542,38 +441,24 @@
 				<rect x="290.385" y="362.945" fill="#52718A" width="16" height="11.668"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 293.3198 370.834)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
+		<text transform="matrix(1 0 0 1 293.3201 370.8342)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
 	</g>
 	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="330.451" cy="348.039" r="4.408"/>
 	<polyline fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" points="332.626,349.882 330.194,347.719 
 		330.215,347.74 331.613,345.714 	"/>
-	<text transform="matrix(1 0 0 1 295.6528 390.7969)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your bids:</tspan><tspan x="0" y="8.4" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#1:    X.XXX kr.</tspan><tspan x="0" y="16.801" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr. </tspan></text>
+	<text transform="matrix(1 0 0 1 295.6531 390.7971)" font-family="'MyriadPro-Regular'" font-size="7">Your bids:</text>
+	<text transform="matrix(1 0 0 1 295.6531 399.1965)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#1:    X.XXX kr.</text>
+	<text transform="matrix(1 0 0 1 295.6531 407.5979)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr. </text>
 </g>
 <g>
-	<rect x="353.254" y="338.48" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.334" height="80.762"/>
-	<text transform="matrix(1 0 0 1 358.1021 349.4648)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 358.1021 390.7979)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.399" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
+	<rect x="353.254" y="338.48" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.335" height="80.762"/>
+	<text transform="matrix(1 0 0 1 358.1023 349.4641)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 358.1023 390.7981)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 358.1023 399.1965)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
 	<g>
 		<g>
 			<rect x="358.435" y="362.945" fill="#FFFFFF" width="48.486" height="11.668"/>
 			<rect x="358.435" y="362.945" fill="none" stroke="#52718A" stroke-miterlimit="10" width="48.486" height="11.668"/>
-		</g>
-		<defs>
-			<filter id="Adobe_OpacityMaskFilter_9_" filterUnits="userSpaceOnUse" x="357.935" y="362.445" width="49.486" height="12.668">
-				
-					<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
-			</filter>
-		</defs>
-		<mask maskUnits="userSpaceOnUse" x="357.935" y="362.445" width="49.486" height="12.668" id="SVGID_10_">
-			<g filter="url(#Adobe_OpacityMaskFilter_9_)">
-				
-					<image overflow="visible" width="223" height="70" xlink:href="22289397FF85E7B1.jpg"  transform="matrix(0.24 0 0 0.24 355.9351 360.4453)">
-				</image>
-			</g>
-		</mask>
-		<g opacity="0.2" mask="url(#SVGID_10_)">
-			<rect x="358.435" y="362.945" width="48.486" height="11.668"/>
-			<rect x="358.435" y="362.945" fill="none" stroke="#000000" stroke-miterlimit="10" width="48.486" height="11.668"/>
 		</g>
 	</g>
 	<g>
@@ -585,70 +470,63 @@
 				<rect x="409.936" y="362.945" fill="#52718A" width="16" height="11.668"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 412.8706 370.834)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
+		<text transform="matrix(1 0 0 1 412.8708 370.8342)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
 	</g>
 	<g>
 		<g>
 			<g opacity="0.3">
-				<rect x="437.627" y="363.797" width="17.635" height="11.666"/>
+				<rect x="437.628" y="363.797" width="17.635" height="11.666"/>
 			</g>
 			<g>
 				<rect x="436.777" y="362.945" fill="#52718A" width="17.633" height="11.668"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 439.5391 370.834)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
+		<text transform="matrix(1 0 0 1 439.5388 370.8342)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
 	</g>
-	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="450.002" cy="348.039" r="4.408"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="450.003" cy="348.039" r="4.408"/>
 	<polyline fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" points="452.177,349.882 449.745,347.719 
 		449.766,347.74 451.164,345.714 	"/>
-	<text transform="matrix(1 0 0 1 415.6528 390.7969)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your bids:</tspan><tspan x="0" y="8.4" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#1:    X.XXX kr.</tspan><tspan x="0" y="16.801" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr. </tspan></text>
+	<text transform="matrix(1 0 0 1 415.6531 390.7971)" font-family="'MyriadPro-Regular'" font-size="7">Your bids:</text>
+	<text transform="matrix(1 0 0 1 415.6531 399.1965)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#1:    X.XXX kr.</text>
+	<text transform="matrix(1 0 0 1 415.6531 407.5979)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr. </text>
 </g>
 <g>
 	<rect x="472.805" y="338.48" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.334" height="80.762"/>
-	<text transform="matrix(1 0 0 1 477.6523 349.4648)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 477.6523 390.7979)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.399" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
-	<text transform="matrix(1 0 0 1 535.6523 390.7979)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Bids:</tspan><tspan x="0" y="8.399" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </tspan><tspan x="0" y="16.8" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </tspan><tspan x="0" y="25.2" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </tspan></text>
+	<text transform="matrix(1 0 0 1 477.6521 349.4641)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 477.6521 390.7981)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 477.6521 399.1965)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
+	<text transform="matrix(1 0 0 1 535.6521 390.7981)" font-family="'MyriadPro-Regular'" font-size="7">Bids:</text>
+	<text transform="matrix(1 0 0 1 535.6521 399.1965)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </text>
+	<text transform="matrix(1 0 0 1 535.6521 407.5979)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </text>
+	<text transform="matrix(1 0 0 1 535.6521 415.9973)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </text>
 	<g>
 		<g>
 			<g opacity="0.3">
 				<rect x="557.178" y="363.797" width="17.635" height="11.666"/>
 			</g>
 			<g>
-				<rect x="556.328" y="362.945" fill="#52718A" width="17.633" height="11.668"/>
+				<rect x="556.328" y="362.945" fill="#52718A" width="17.634" height="11.668"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 559.0898 370.834)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
+		<text transform="matrix(1 0 0 1 559.0896 370.8342)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
 	</g>
 	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="569.553" cy="348.039" r="4.408"/>
-	<polyline fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" points="571.728,349.882 569.296,347.719 
-		569.316,347.74 570.715,345.714 	"/>
+	<polyline fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" points="571.728,349.882 569.297,347.719 
+		569.316,347.74 570.716,345.714 	"/>
 </g>
 <g>
 	<rect x="592.355" y="338.48" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.334" height="80.762"/>
-	<text transform="matrix(1 0 0 1 597.2031 349.4648)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 597.2031 390.7979)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.399" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
-	<text transform="matrix(1 0 0 1 655.2031 390.7979)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Bids:</tspan><tspan x="0" y="8.399" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </tspan><tspan x="0" y="16.8" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </tspan><tspan x="0" y="25.2" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </tspan></text>
+	<text transform="matrix(1 0 0 1 597.2029 349.4641)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 597.2029 390.7981)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 597.2029 399.1965)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
+	<text transform="matrix(1 0 0 1 655.2029 390.7981)" font-family="'MyriadPro-Regular'" font-size="7">Bids:</text>
+	<text transform="matrix(1 0 0 1 655.2029 399.1965)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </text>
+	<text transform="matrix(1 0 0 1 655.2029 407.5979)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </text>
+	<text transform="matrix(1 0 0 1 655.2029 415.9973)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </text>
 	<g>
 		<g>
 			<rect x="597.537" y="362.945" fill="#FFFFFF" width="48.485" height="11.668"/>
 			<rect x="597.537" y="362.945" fill="none" stroke="#52718A" stroke-miterlimit="10" width="48.485" height="11.668"/>
-		</g>
-		<defs>
-			<filter id="Adobe_OpacityMaskFilter_10_" filterUnits="userSpaceOnUse" x="597.037" y="362.445" width="49.485" height="12.668">
-				
-					<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
-			</filter>
-		</defs>
-		<mask maskUnits="userSpaceOnUse" x="597.037" y="362.445" width="49.485" height="12.668" id="SVGID_11_">
-			<g filter="url(#Adobe_OpacityMaskFilter_10_)">
-				
-					<image overflow="visible" width="223" height="70" xlink:href="22289397FF85E7B2.jpg"  transform="matrix(0.24 0 0 0.24 595.0371 360.4453)">
-				</image>
-			</g>
-		</mask>
-		<g opacity="0.2" mask="url(#SVGID_11_)">
-			<rect x="597.537" y="362.945" width="48.485" height="11.668"/>
-			<rect x="597.537" y="362.945" fill="none" stroke="#000000" stroke-miterlimit="10" width="48.485" height="11.668"/>
 		</g>
 	</g>
 	<g>
@@ -660,7 +538,7 @@
 				<rect x="649.037" y="362.945" fill="#52718A" width="16" height="11.668"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 651.9727 370.834)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
+		<text transform="matrix(1 0 0 1 651.9724 370.8342)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
 	</g>
 	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="689.104" cy="348.039" r="4.408"/>
 	<polyline fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" points="691.278,349.882 688.847,347.719 
@@ -668,30 +546,17 @@
 </g>
 <g>
 	<rect x="711.906" y="338.48" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.334" height="80.762"/>
-	<text transform="matrix(1 0 0 1 716.7539 349.4648)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 716.7539 390.7979)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.399" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
-	<text transform="matrix(1 0 0 1 774.7539 390.7979)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Bids:</tspan><tspan x="0" y="8.399" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </tspan><tspan x="0" y="16.8" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </tspan><tspan x="0" y="25.2" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </tspan></text>
+	<text transform="matrix(1 0 0 1 716.7537 349.4641)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 716.7537 390.7981)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 716.7537 399.1965)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
+	<text transform="matrix(1 0 0 1 774.7537 390.7981)" font-family="'MyriadPro-Regular'" font-size="7">Bids:</text>
+	<text transform="matrix(1 0 0 1 774.7537 399.1965)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </text>
+	<text transform="matrix(1 0 0 1 774.7537 407.5979)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </text>
+	<text transform="matrix(1 0 0 1 774.7537 415.9973)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </text>
 	<g>
 		<g>
-			<rect x="717.088" y="362.945" fill="#FFFFFF" width="48.485" height="11.668"/>
-			<rect x="717.088" y="362.945" fill="none" stroke="#52718A" stroke-miterlimit="10" width="48.485" height="11.668"/>
-		</g>
-		<defs>
-			<filter id="Adobe_OpacityMaskFilter_11_" filterUnits="userSpaceOnUse" x="716.588" y="362.445" width="49.485" height="12.668">
-				
-					<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
-			</filter>
-		</defs>
-		<mask maskUnits="userSpaceOnUse" x="716.588" y="362.445" width="49.485" height="12.668" id="SVGID_12_">
-			<g filter="url(#Adobe_OpacityMaskFilter_11_)">
-				
-					<image overflow="visible" width="223" height="70" xlink:href="22289397FF85E7B0.jpg"  transform="matrix(0.24 0 0 0.24 714.5879 360.4453)">
-				</image>
-			</g>
-		</mask>
-		<g opacity="0.2" mask="url(#SVGID_12_)">
-			<rect x="717.088" y="362.945" width="48.485" height="11.668"/>
-			<rect x="717.088" y="362.945" fill="none" stroke="#000000" stroke-miterlimit="10" width="48.485" height="11.668"/>
+			<rect x="717.089" y="362.945" fill="#FFFFFF" width="48.484" height="11.668"/>
+			<rect x="717.089" y="362.945" fill="none" stroke="#52718A" stroke-miterlimit="10" width="48.484" height="11.668"/>
 		</g>
 	</g>
 	<g>
@@ -700,10 +565,10 @@
 				<rect x="769.438" y="363.797" width="16" height="11.666"/>
 			</g>
 			<g>
-				<rect x="768.588" y="362.945" fill="#52718A" width="16" height="11.668"/>
+				<rect x="768.589" y="362.945" fill="#52718A" width="16" height="11.668"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 771.5234 370.834)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
+		<text transform="matrix(1 0 0 1 771.5232 370.8342)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
 	</g>
 	<g>
 		<g>
@@ -714,11 +579,11 @@
 				<rect x="795.43" y="362.945" fill="#52718A" width="17.633" height="11.668"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 798.1914 370.834)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
+		<text transform="matrix(1 0 0 1 798.1912 370.8342)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
 	</g>
 	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="808.654" cy="348.039" r="4.408"/>
 	<polyline fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" points="810.829,349.882 808.397,347.719 
-		808.418,347.74 809.816,345.714 	"/>
+		808.419,347.74 809.816,345.714 	"/>
 </g>
 <g>
 	<g>
@@ -738,28 +603,29 @@
 				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="13.7523,13.7523" x1="221.486" y1="480.465" x2="221.486" y2="528.599"/>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 119.0005 471.6963)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 119.0005 513.0293)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.4" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
+	<text transform="matrix(1 0 0 1 119.0007 471.6965)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 119.0007 513.0286)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 119.0007 521.429)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
 	<g>
 		<g>
 			<g opacity="0.3">
 				<rect x="198.526" y="486.028" width="17.634" height="11.668"/>
 			</g>
 			<g>
-				<rect x="197.675" y="485.178" fill="#52718A" width="17.634" height="11.668"/>
+				<rect x="197.675" y="485.178" fill="#52718A" width="17.635" height="11.668"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 200.4375 493.0654)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
+		<text transform="matrix(1 0 0 1 200.4377 493.0647)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
 	</g>
 	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="210.901" cy="470.271" r="4.408"/>
 	<g>
-		<polyline fill="none" stroke="#000000" stroke-linejoin="round" points="213.075,472.113 210.644,469.951 210.665,469.973 
+		<polyline fill="none" stroke="#000000" stroke-linejoin="round" points="213.075,472.113 210.644,469.95 210.665,469.973 
 			212.062,467.945 		"/>
 	</g>
 </g>
 <g>
 	<g>
-		<rect x="114.152" y="575" fill="#FFFEF4" width="15.424" height="14.854"/>
+		<rect x="114.152" y="574.999" fill="#FFFEF4" width="15.424" height="14.854"/>
 		<g>
 			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="129.576,588.354 129.576,589.854 128.076,589.854 			"/>
 			
@@ -767,40 +633,24 @@
 			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="115.652,589.854 114.152,589.854 114.152,588.354 			"/>
 			
 				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="2.3709,2.3709" x1="114.152" y1="585.983" x2="114.152" y2="577.686"/>
-			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="114.152,576.5 114.152,575 115.652,575 			"/>
+			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="114.152,576.499 114.152,574.999 115.652,574.999 			"/>
 			
-				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="2.4848,2.4848" x1="118.137" y1="575" x2="126.834" y2="575"/>
-			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="128.076,575 129.576,575 129.576,576.5 			"/>
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="2.4848,2.4848" x1="118.137" y1="574.999" x2="126.834" y2="574.999"/>
+			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="128.076,574.999 129.576,574.999 129.576,576.499 			"/>
 			
-				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="2.3709,2.3709" x1="129.576" y1="578.871" x2="129.576" y2="587.169"/>
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="2.3709,2.3709" x1="129.576" y1="578.87" x2="129.576" y2="587.169"/>
 		</g>
 	</g>
 </g>
 <g>
 	<rect x="233.703" y="460.713" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.333" height="80.762"/>
-	<text transform="matrix(1 0 0 1 238.5513 471.6963)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 238.5513 513.0293)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.4" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
+	<text transform="matrix(1 0 0 1 238.5515 471.6965)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 238.5515 513.0286)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 238.5515 521.429)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
 	<g>
 		<g>
 			<rect x="238.884" y="485.178" fill="#FFFFFF" width="48.486" height="11.668"/>
 			<rect x="238.884" y="485.178" fill="none" stroke="#52718A" stroke-miterlimit="10" width="48.486" height="11.668"/>
-		</g>
-		<defs>
-			<filter id="Adobe_OpacityMaskFilter_12_" filterUnits="userSpaceOnUse" x="238.384" y="484.678" width="49.486" height="12.668">
-				
-					<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
-			</filter>
-		</defs>
-		<mask maskUnits="userSpaceOnUse" x="238.384" y="484.678" width="49.486" height="12.668" id="SVGID_13_">
-			<g filter="url(#Adobe_OpacityMaskFilter_12_)">
-				
-					<image overflow="visible" width="223" height="70" xlink:href="22289397FF85E7CE.jpg"  transform="matrix(0.24 0 0 0.24 236.3843 482.6777)">
-				</image>
-			</g>
-		</mask>
-		<g opacity="0.2" mask="url(#SVGID_13_)">
-			<rect x="238.884" y="485.178" width="48.486" height="11.668"/>
-			<rect x="238.884" y="485.178" fill="none" stroke="#000000" stroke-miterlimit="10" width="48.486" height="11.668"/>
 		</g>
 	</g>
 	<g>
@@ -812,38 +662,24 @@
 				<rect x="290.385" y="485.178" fill="#52718A" width="16" height="11.668"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 293.3198 493.0654)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
+		<text transform="matrix(1 0 0 1 293.3201 493.0647)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
 	</g>
 	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="330.451" cy="470.271" r="4.408"/>
-	<polyline fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" points="332.626,472.113 330.194,469.951 
+	<polyline fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" points="332.626,472.113 330.194,469.95 
 		330.215,469.973 331.613,467.945 	"/>
-	<text transform="matrix(1 0 0 1 295.6528 513.0293)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your bids:</tspan><tspan x="0" y="8.4" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#1:    X.XXX kr.</tspan><tspan x="0" y="16.801" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr. </tspan></text>
+	<text transform="matrix(1 0 0 1 295.6531 513.0286)" font-family="'MyriadPro-Regular'" font-size="7">Your bids:</text>
+	<text transform="matrix(1 0 0 1 295.6531 521.429)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#1:    X.XXX kr.</text>
+	<text transform="matrix(1 0 0 1 295.6531 529.8303)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr. </text>
 </g>
 <g>
-	<rect x="353.254" y="460.713" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.334" height="80.762"/>
-	<text transform="matrix(1 0 0 1 358.1021 471.6963)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 358.1021 513.0293)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.4" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
+	<rect x="353.254" y="460.713" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.335" height="80.762"/>
+	<text transform="matrix(1 0 0 1 358.1023 471.6965)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 358.1023 513.0286)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 358.1023 521.429)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
 	<g>
 		<g>
 			<rect x="358.435" y="485.178" fill="#FFFFFF" width="48.486" height="11.668"/>
 			<rect x="358.435" y="485.178" fill="none" stroke="#52718A" stroke-miterlimit="10" width="48.486" height="11.668"/>
-		</g>
-		<defs>
-			<filter id="Adobe_OpacityMaskFilter_13_" filterUnits="userSpaceOnUse" x="357.935" y="484.678" width="49.486" height="12.668">
-				
-					<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
-			</filter>
-		</defs>
-		<mask maskUnits="userSpaceOnUse" x="357.935" y="484.678" width="49.486" height="12.668" id="SVGID_14_">
-			<g filter="url(#Adobe_OpacityMaskFilter_13_)">
-				
-					<image overflow="visible" width="223" height="70" xlink:href="22289397FF85E7D1.jpg"  transform="matrix(0.24 0 0 0.24 355.9351 482.6777)">
-				</image>
-			</g>
-		</mask>
-		<g opacity="0.2" mask="url(#SVGID_14_)">
-			<rect x="358.435" y="485.178" width="48.486" height="11.668"/>
-			<rect x="358.435" y="485.178" fill="none" stroke="#000000" stroke-miterlimit="10" width="48.486" height="11.668"/>
 		</g>
 	</g>
 	<g>
@@ -855,23 +691,25 @@
 				<rect x="409.936" y="485.178" fill="#52718A" width="16" height="11.668"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 412.8706 493.0654)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
+		<text transform="matrix(1 0 0 1 412.8708 493.0647)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
 	</g>
 	<g>
 		<g>
 			<g opacity="0.3">
-				<rect x="437.627" y="486.029" width="17.635" height="11.666"/>
+				<rect x="437.628" y="486.029" width="17.635" height="11.666"/>
 			</g>
 			<g>
 				<rect x="436.777" y="485.178" fill="#52718A" width="17.633" height="11.668"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 439.5391 493.0654)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
+		<text transform="matrix(1 0 0 1 439.5388 493.0647)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
 	</g>
-	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="450.002" cy="470.271" r="4.408"/>
-	<polyline fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" points="452.177,472.113 449.745,469.951 
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="450.003" cy="470.271" r="4.408"/>
+	<polyline fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" points="452.177,472.113 449.745,469.95 
 		449.766,469.973 451.164,467.945 	"/>
-	<text transform="matrix(1 0 0 1 415.6528 513.0293)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your bids:</tspan><tspan x="0" y="8.4" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#1:    X.XXX kr.</tspan><tspan x="0" y="16.801" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr. </tspan></text>
+	<text transform="matrix(1 0 0 1 415.6531 513.0286)" font-family="'MyriadPro-Regular'" font-size="7">Your bids:</text>
+	<text transform="matrix(1 0 0 1 415.6531 521.429)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#1:    X.XXX kr.</text>
+	<text transform="matrix(1 0 0 1 415.6531 529.8303)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr. </text>
 </g>
 <g>
 	<g>
@@ -879,62 +717,53 @@
 		<g>
 			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="580.139,535.475 580.139,541.475 574.139,541.475 			"/>
 			
-				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="10.5927,10.5927" x1="563.546" y1="541.475" x2="484.101" y2="541.475"/>
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="10.5927,10.5927" x1="563.547" y1="541.475" x2="484.101" y2="541.475"/>
 			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="478.805,541.475 472.805,541.475 472.805,535.475 			"/>
 			
 				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="13.7523,13.7523" x1="472.805" y1="521.723" x2="472.805" y2="473.589"/>
 			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="472.805,466.713 472.805,460.713 478.805,460.713 			"/>
 			
-				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="10.5927,10.5927" x1="489.397" y1="460.713" x2="568.843" y2="460.713"/>
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="10.5927,10.5927" x1="489.397" y1="460.713" x2="568.844" y2="460.713"/>
 			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="574.139,460.713 580.139,460.713 580.139,466.713 			"/>
 			
 				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="13.7523,13.7523" x1="580.139" y1="480.465" x2="580.139" y2="528.599"/>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 477.6523 471.6963)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 477.6523 513.0293)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.4" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
-	<text transform="matrix(1 0 0 1 535.6523 513.0293)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Bids:</tspan><tspan x="0" y="8.4" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </tspan><tspan x="0" y="16.801" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </tspan><tspan x="0" y="25.201" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </tspan></text>
+	<text transform="matrix(1 0 0 1 477.6521 471.6965)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 477.6521 513.0286)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 477.6521 521.429)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
+	<text transform="matrix(1 0 0 1 535.6521 513.0286)" font-family="'MyriadPro-Regular'" font-size="7">Bids:</text>
+	<text transform="matrix(1 0 0 1 535.6521 521.429)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </text>
+	<text transform="matrix(1 0 0 1 535.6521 529.8303)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </text>
+	<text transform="matrix(1 0 0 1 535.6521 538.2297)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </text>
 	<g>
 		<g>
 			<g opacity="0.3">
 				<rect x="557.179" y="486.028" width="17.633" height="11.668"/>
 			</g>
 			<g>
-				<rect x="556.328" y="485.178" fill="#52718A" width="17.633" height="11.668"/>
+				<rect x="556.328" y="485.178" fill="#52718A" width="17.634" height="11.668"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 559.0898 493.0654)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
+		<text transform="matrix(1 0 0 1 559.0896 493.0647)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
 	</g>
 	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="569.553" cy="470.271" r="4.408"/>
-	<polyline fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" points="571.728,472.113 569.296,469.951 
-		569.316,469.973 570.715,467.945 	"/>
+	<polyline fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" points="571.728,472.113 569.297,469.95 
+		569.316,469.973 570.716,467.945 	"/>
 </g>
 <g>
 	<rect x="592.355" y="460.713" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.334" height="80.762"/>
-	<text transform="matrix(1 0 0 1 597.2031 471.6963)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 597.2031 513.0293)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.4" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
-	<text transform="matrix(1 0 0 1 655.2031 513.0293)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Bids:</tspan><tspan x="0" y="8.4" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </tspan><tspan x="0" y="16.801" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </tspan><tspan x="0" y="25.201" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </tspan></text>
+	<text transform="matrix(1 0 0 1 597.2029 471.6965)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 597.2029 513.0286)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 597.2029 521.429)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
+	<text transform="matrix(1 0 0 1 655.2029 513.0286)" font-family="'MyriadPro-Regular'" font-size="7">Bids:</text>
+	<text transform="matrix(1 0 0 1 655.2029 521.429)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </text>
+	<text transform="matrix(1 0 0 1 655.2029 529.8303)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </text>
+	<text transform="matrix(1 0 0 1 655.2029 538.2297)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </text>
 	<g>
 		<g>
 			<rect x="597.537" y="485.178" fill="#FFFFFF" width="48.485" height="11.668"/>
 			<rect x="597.537" y="485.178" fill="none" stroke="#52718A" stroke-miterlimit="10" width="48.485" height="11.668"/>
-		</g>
-		<defs>
-			<filter id="Adobe_OpacityMaskFilter_14_" filterUnits="userSpaceOnUse" x="597.037" y="484.678" width="49.485" height="12.668">
-				
-					<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
-			</filter>
-		</defs>
-		<mask maskUnits="userSpaceOnUse" x="597.037" y="484.678" width="49.485" height="12.668" id="SVGID_15_">
-			<g filter="url(#Adobe_OpacityMaskFilter_14_)">
-				
-					<image overflow="visible" width="223" height="70" xlink:href="22289397FF85E7D0.jpg"  transform="matrix(0.24 0 0 0.24 595.0371 482.6777)">
-				</image>
-			</g>
-		</mask>
-		<g opacity="0.2" mask="url(#SVGID_15_)">
-			<rect x="597.537" y="485.178" width="48.485" height="11.668"/>
-			<rect x="597.537" y="485.178" fill="none" stroke="#000000" stroke-miterlimit="10" width="48.485" height="11.668"/>
 		</g>
 	</g>
 	<g>
@@ -946,38 +775,25 @@
 				<rect x="649.037" y="485.178" fill="#52718A" width="16" height="11.668"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 651.9727 493.0654)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
+		<text transform="matrix(1 0 0 1 651.9724 493.0647)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
 	</g>
 	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="689.104" cy="470.271" r="4.408"/>
-	<polyline fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" points="691.278,472.113 688.847,469.951 
+	<polyline fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" points="691.278,472.113 688.847,469.95 
 		688.867,469.973 690.266,467.945 	"/>
 </g>
 <g>
 	<rect x="711.906" y="460.713" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="107.334" height="80.762"/>
-	<text transform="matrix(1 0 0 1 716.7539 471.6963)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
-	<text transform="matrix(1 0 0 1 716.7539 513.0293)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </tspan><tspan x="0" y="8.4" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</tspan></text>
-	<text transform="matrix(1 0 0 1 774.7539 513.0293)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">Bids:</tspan><tspan x="0" y="8.4" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </tspan><tspan x="0" y="16.801" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </tspan><tspan x="0" y="25.201" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </tspan></text>
+	<text transform="matrix(1 0 0 1 716.7537 471.6965)" font-family="'MyriadPro-Regular'" font-size="7">Price: X.XXX kr </text>
+	<text transform="matrix(1 0 0 1 716.7537 513.0286)" font-family="'MyriadPro-Regular'" font-size="7">Your value:  </text>
+	<text transform="matrix(1 0 0 1 716.7537 521.429)" font-family="'MyriadPro-Regular'" font-size="7">X.XXX kr</text>
+	<text transform="matrix(1 0 0 1 774.7537 513.0286)" font-family="'MyriadPro-Regular'" font-size="7">Bids:</text>
+	<text transform="matrix(1 0 0 1 774.7537 521.429)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr. </text>
+	<text transform="matrix(1 0 0 1 774.7537 529.8303)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  </text>
+	<text transform="matrix(1 0 0 1 774.7537 538.2297)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#3:        XXX kr. </text>
 	<g>
 		<g>
-			<rect x="717.088" y="485.178" fill="#FFFFFF" width="48.485" height="11.668"/>
-			<rect x="717.088" y="485.178" fill="none" stroke="#52718A" stroke-miterlimit="10" width="48.485" height="11.668"/>
-		</g>
-		<defs>
-			<filter id="Adobe_OpacityMaskFilter_15_" filterUnits="userSpaceOnUse" x="716.588" y="484.678" width="49.485" height="12.668">
-				
-					<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
-			</filter>
-		</defs>
-		<mask maskUnits="userSpaceOnUse" x="716.588" y="484.678" width="49.485" height="12.668" id="SVGID_16_">
-			<g filter="url(#Adobe_OpacityMaskFilter_15_)">
-				
-					<image overflow="visible" width="223" height="70" xlink:href="22289397FF85E7D7.jpg"  transform="matrix(0.24 0 0 0.24 714.5879 482.6777)">
-				</image>
-			</g>
-		</mask>
-		<g opacity="0.2" mask="url(#SVGID_16_)">
-			<rect x="717.088" y="485.178" width="48.485" height="11.668"/>
-			<rect x="717.088" y="485.178" fill="none" stroke="#000000" stroke-miterlimit="10" width="48.485" height="11.668"/>
+			<rect x="717.089" y="485.178" fill="#FFFFFF" width="48.484" height="11.668"/>
+			<rect x="717.089" y="485.178" fill="none" stroke="#52718A" stroke-miterlimit="10" width="48.484" height="11.668"/>
 		</g>
 	</g>
 	<g>
@@ -986,10 +802,10 @@
 				<rect x="769.438" y="486.029" width="16" height="11.666"/>
 			</g>
 			<g>
-				<rect x="768.588" y="485.178" fill="#52718A" width="16" height="11.668"/>
+				<rect x="768.589" y="485.178" fill="#52718A" width="16" height="11.668"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 771.5234 493.0654)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
+		<text transform="matrix(1 0 0 1 771.5232 493.0647)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BID</text>
 	</g>
 	<g>
 		<g>
@@ -1000,33 +816,39 @@
 				<rect x="795.43" y="485.178" fill="#52718A" width="17.633" height="11.668"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 798.1914 493.0654)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
+		<text transform="matrix(1 0 0 1 798.1912 493.0647)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="7">BUY</text>
 	</g>
 	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="808.654" cy="470.271" r="4.408"/>
-	<polyline fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" points="810.829,472.113 808.397,469.951 
-		808.418,469.973 809.816,467.945 	"/>
+	<polyline fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" points="810.829,472.113 808.397,469.95 
+		808.419,469.973 809.816,467.945 	"/>
 </g>
-<text transform="matrix(1 0 0 1 114.1523 186.3325)"><tspan x="0" y="0" fill="#00A89F" font-family="'MyriadPro-BoldIt'" font-size="9">Posted-price market</tspan><tspan x="0" y="10.8" fill="#00A89F" font-family="'MyriadPro-Regular'" font-size="9">DBA.dk</tspan></text>
-<text transform="matrix(1 0 0 1 114.1523 431.332)" fill="#00A89F" font-family="'MyriadPro-Regular'" font-size="9">DBA.dk</text>
-<text transform="matrix(1 0 0 1 353.2534 431.332)"><tspan x="0" y="0" fill="#00A89F" font-family="'MyriadPro-Regular'" font-size="9">auctionata.com </tspan><tspan x="0" y="10.801" fill="#00A89F" font-family="'MyriadPro-Regular'" font-size="9">( DBA.dk – private msg)</tspan></text>
-<text transform="matrix(1 0 0 1 711.9062 431.332)" fill="#00A89F" font-family="'MyriadPro-Regular'" font-size="9">( DBA.dk – public msg)</text>
-<text transform="matrix(1 0 0 1 711.9062 555.332)"><tspan x="0" y="0" fill="#00A89F" font-family="'MyriadPro-BoldIt'" font-size="9">Buyout / Buy-it-now</tspan><tspan x="0" y="10.801" fill="#00A89F" font-family="'MyriadPro-Regular'" font-size="9">eBay</tspan></text>
-<text transform="matrix(1 0 0 1 429.8262 578.5312)"><tspan x="0" y="0" fill="#00A89F" font-family="'MyriadPro-BoldIt'" font-size="9">Standard phrase/name</tspan><tspan x="0" y="10.799" fill="#00A89F" font-family="'MyriadPro-Regular'" font-size="9">Example</tspan></text>
-<text transform="matrix(1 0 0 1 592.3555 555.332)"><tspan x="0" y="0" fill="#00A89F" font-family="'MyriadPro-BoldIt'" font-size="9">Standard Auction</tspan><tspan x="0" y="10.801" fill="#00A89F" font-family="'MyriadPro-Regular'" font-size="9">Lauritz.com</tspan></text>
-<text transform="matrix(1 0 0 1 592.3555 309.666)" fill="#00A89F" font-family="'MyriadPro-BoldIt'" font-size="9">Standard Auction</text>
-<text transform="matrix(1 0 0 1 233.7036 555.332)" fill="#00A89F" font-family="'MyriadPro-BoldIt'" font-size="9">Standard Auction</text>
-<text transform="matrix(1 0 0 1 233.7036 309.666)" fill="#00A89F" font-family="'MyriadPro-BoldIt'" font-size="9">Sealed-bid Auction</text>
-<text transform="matrix(1 0 0 1 335.0229 589.7793)"><tspan x="0" y="0" fill="#A41D21" font-family="'MyriadPro-Regular'" font-size="14">*</tspan><tspan x="5.81" y="-5" fill="#A41D21" font-family="'MyriadPro-Regular'" font-size="9"> Possibly “snipping”</tspan></text>
-<text transform="matrix(1 0 0 1 693.8779 560.1973)" fill="#A41D21" font-family="'MyriadPro-Regular'" font-size="14">*</text>
-<text transform="matrix(1 0 0 1 813.4277 560.1973)" fill="#A41D21" font-family="'MyriadPro-Regular'" font-size="14">*</text>
-<text transform="matrix(1 0 0 1 693.8779 313.666)" fill="#A41D21" font-family="'MyriadPro-Regular'" font-size="14">*</text>
-<text transform="matrix(1 0 0 1 813.4277 313.666)" fill="#A41D21" font-family="'MyriadPro-Regular'" font-size="14">*</text>
-<text transform="matrix(1 0 0 1 134.5835 584.7793)" font-family="'MyriadPro-It'" font-size="7">Trivial / Theoretical</text>
-<text transform="matrix(1 0 0 1 283.9854 584.7793)" font-family="'MyriadPro-It'" font-size="7">Count down</text>
+<text transform="matrix(1 0 0 1 114.1526 186.3323)" fill="#00A89F" font-family="'MyriadPro-BoldIt'" font-size="9">Posted-price market</text>
+<text transform="matrix(1 0 0 1 114.1526 197.1321)" fill="#00A89F" font-family="'MyriadPro-Regular'" font-size="9">DBA.dk</text>
+<text transform="matrix(1 0 0 1 114.1526 431.3313)" fill="#00A89F" font-family="'MyriadPro-Regular'" font-size="9">DBA.dk</text>
+<text transform="matrix(1 0 0 1 353.2537 431.3313)" fill="#00A89F" font-family="'MyriadPro-Regular'" font-size="9">auctionata.com </text>
+<text transform="matrix(1 0 0 1 353.2537 442.1331)" fill="#00A89F" font-family="'MyriadPro-Regular'" font-size="9">( DBA.dk – private msg)</text>
+<text transform="matrix(1 0 0 1 711.906 431.3313)" fill="#00A89F" font-family="'MyriadPro-Regular'" font-size="9">( DBA.dk – public msg)</text>
+<text transform="matrix(1 0 0 1 711.906 555.3313)" fill="#00A89F" font-family="'MyriadPro-BoldIt'" font-size="9">Buyout / Buy-it-now</text>
+<text transform="matrix(1 0 0 1 711.906 566.1331)" fill="#00A89F" font-family="'MyriadPro-Regular'" font-size="9">eBay</text>
+<text transform="matrix(1 0 0 1 429.8259 578.5305)" fill="#00A89F" font-family="'MyriadPro-BoldIt'" font-size="9">Standard phrase/name</text>
+<text transform="matrix(1 0 0 1 429.8259 589.3303)" fill="#00A89F" font-family="'MyriadPro-Regular'" font-size="9">Example</text>
+<text transform="matrix(1 0 0 1 592.3552 555.3313)" fill="#00A89F" font-family="'MyriadPro-BoldIt'" font-size="9">Standard Auction</text>
+<text transform="matrix(1 0 0 1 592.3552 566.1331)" fill="#00A89F" font-family="'MyriadPro-Regular'" font-size="9">Lauritz.com</text>
+<text transform="matrix(1 0 0 1 592.3552 309.6653)" fill="#00A89F" font-family="'MyriadPro-BoldIt'" font-size="9">Standard Auction</text>
+<text transform="matrix(1 0 0 1 233.7039 555.3313)" fill="#00A89F" font-family="'MyriadPro-BoldIt'" font-size="9">Standard Auction</text>
+<text transform="matrix(1 0 0 1 233.7039 309.6653)" fill="#00A89F" font-family="'MyriadPro-BoldIt'" font-size="9">Sealed-bid Auction</text>
+<text transform="matrix(1 0 0 1 335.0232 589.7786)" fill="#A41D21" font-family="'MyriadPro-Regular'" font-size="14">*</text>
+<text transform="matrix(1 0 0 1 340.8333 584.7786)" fill="#A41D21" font-family="'MyriadPro-Regular'" font-size="9"> Possibly “snipping”</text>
+<text transform="matrix(1 0 0 1 693.8787 560.1975)" fill="#A41D21" font-family="'MyriadPro-Regular'" font-size="14">*</text>
+<text transform="matrix(1 0 0 1 813.4275 560.1975)" fill="#A41D21" font-family="'MyriadPro-Regular'" font-size="14">*</text>
+<text transform="matrix(1 0 0 1 693.8787 313.6653)" fill="#A41D21" font-family="'MyriadPro-Regular'" font-size="14">*</text>
+<text transform="matrix(1 0 0 1 813.4275 313.6653)" fill="#A41D21" font-family="'MyriadPro-Regular'" font-size="14">*</text>
+<text transform="matrix(1 0 0 1 134.5837 584.7786)" font-family="'MyriadPro-It'" font-size="7">Trivial / Theoretical</text>
+<text transform="matrix(1 0 0 1 283.9856 584.7786)" font-family="'MyriadPro-It'" font-size="7">Count down</text>
 <g>
-	<rect x="206.492" y="575" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="15.424" height="14.854"/>
+	<rect x="206.492" y="574.999" fill="#FFFEF4" stroke="#000000" stroke-miterlimit="10" width="15.424" height="14.854"/>
 </g>
-<text transform="matrix(1 0 0 1 226.9233 584.7793)" font-family="'MyriadPro-It'" font-size="7">Treatment</text>
+<text transform="matrix(1 0 0 1 226.9236 584.7786)" font-family="'MyriadPro-It'" font-size="7">Treatment</text>
 <g>
 	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="275.736" cy="582.428" r="4.408"/>
 	<g>
@@ -1034,5 +856,6 @@
 			276.898,580.102 		"/>
 	</g>
 </g>
-<text transform="matrix(1 0 0 1 538.7314 580.1016)"><tspan x="0" y="0" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr.  (others bid)</tspan><tspan x="0" y="8.4" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  (your bid)</tspan></text>
+<text transform="matrix(1 0 0 1 538.7322 580.1018)" fill="#818181" font-family="'MyriadPro-Regular'" font-size="7">#1:    X.XXX kr.  (others bid)</text>
+<text transform="matrix(1 0 0 1 538.7322 588.5012)" fill="#818181" font-family="'MyriadPro-It'" font-size="7">#2:        XXX kr.  (your bid)</text>
 </svg>
