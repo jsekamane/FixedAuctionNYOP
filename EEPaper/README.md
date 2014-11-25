@@ -1,21 +1,18 @@
-# Auction or haggling -- which price mechanism should the seller choose? A look at the interaction betweeen price discovery and competition in Name-Your-Own-Price auctions.
+# Auction or haggling — what should the seller choose? A look at the interaction between price discovery and competition in Name-Your-Own-Price auctions.
 
 *Abstract*
 
 ## Introduction
 
-Which mechanism should the seller choose? This article focuses on selling unique objects. That is where multiple buyers compete for the same object. This has traditionally been the realm of auctions (art, antiques, etc). But perhaps – and contrary to popular believe – the standard single-item auction formats are not the optimal selling methods. An alternative price mechanism is Name-Your-Own-Price (NYOP). In NYOP the buyer proposes a price. If the proposed price is above some threshold level, that is set by the seller, then the buyer gets the object at the proposed price. A previous experiment by Shapiro and Zillante (2009) shows that NYOP gives sellers higher revenue than the posted price mechanism. This experiment will try to answer; if NYOP gives higher revenue than a second-price auction? The natural follow-up question is then why – why revenue is higher in NYOP, or why revenue is not higher? To try and answer this additional NYOP treatments are proposed. These treatments focus on the interaction between price discovery and competition, and how this will affect the results.
+Which price mechanism should the seller choose? This article focuses on the selling of unique objects, i.e. where multiple buyers compete for the same object. This has traditionally been the realm of auctions (art, antiques, etc). But perhaps – and contrary to popular believe – the standard single-item auction formats are not the optimal selling methods. An alternative price mechanism is Name-Your-Own-Price (NYOP). In NYOP the buyer proposes a price. If the proposed price is above some threshold level, that is set by the seller, then the buyer gets the object at the proposed price. A previous experiment by Shapiro and Zillante (2009) shows that NYOP gives sellers higher revenue than a simple posted price mechanism. The experiment in this paper aims to answer; if using NYOP will also give higher revenue than a second-price auction? The natural follow-up question is then why. Why revenue is higher in NYOP, or why revenue is not higher? To try and answer the latter two questions, additional NYOP treatments are proposed. These treatments focus on the interaction between price discovery and competition, and how they affect the results.
+
+This paper is structured as follows. First the various prices mechanisms (posted price, NYOP, haggling, second-price auction and buyout auction) are introduced. This section also includes a discussion of how the various price mechanisms relate to one another. This is followed by a short summary of the literature, previous experimental findings and some theoretical predictions.  Hereafter follows the full description of the experiment; its design, treatments, recruitment, participant requirements and the technical implementation. The last sections of this paper includes a recapitulation of my hypothesis and expected results from the experiment, the short-comings of the experiment, future extensions, as well as the conclusion.
+
+## Various price mechanisms
 
 With my experiment I would like to bridge the gab between auctions and NYOP. I will conduct an experiment that compares the revenue of an auction and NYOP. 
-* Participants in the experiments will all be buyers, the actions of the seller is carried out by a computer. There will be only one object for sale. The auctions ends when the clock runs out, and the winner is the highest bidder. The NYOP ends once the seller receives a bid above the sellers threshold level. If no bids submitted then NYOP ends when clock runs out. Buyers are allowed to submit multiple bids. I.e. if their bid is not above the threshold level they can submit a new higher bid. Buyers can see their own and others submitted bids. Buyers are always presented to the posted price.
 
-
-NYOP: Game tree
-How NYOP is similar to haggeling.
-How NYOP is similar to posted price.
-Buyout option
-
-**Posted Price:**
+### Posted Price:
 
 Pros:
 * Seller has control over price.
@@ -23,7 +20,20 @@ Pros:
 Cons:
 * No price discovering-mechanism, with single object sale
 
-**Auction:**
+### Name-your-own-price (NYOP) and haggling:
+
+Pros:
+* Unknown value of object
+
+NYOP: Game tree
+How NYOP is similar to haggeling.
+How NYOP is similar to posted price.
+Buyout option
+
+### Haggling:
+
+
+### Second-price auction:
 
 Pros:
 * Revenue
@@ -31,34 +41,41 @@ Pros:
 * Effeciency (allocation to buyer with highest value)
 * Terminal time
 
-**Name-your-own-price (NYOP) and haggling:**
+### Buyout auctions:
 
-Pros:
-* Unknown value of object
 
 **Risk, equilibrium, etc.**
 
-### Litterature review
+
+## Litterature review
 
 | Article                           | Mechnism              | Object    | Bidding   | Comments |
 | -------------                     |:------------- :       | :-----    | :----     | :-----  |
 | Shapiro and Zillante (2009)       | NYOP, Posted-price    | multiple (no competition)  | single-bid | ... |
 
 
+## Experiment
 
-## Design
+### Design
 
 To try and explain the resulting difference between auctions and NYOP, I will compare the NYOP results to three alternative NYOP treatments. My hypothesis is that two counter-acting factors, in particular, effects the results of the NYOP mechanism:
 
 1. **Learning** or **Price discovery**. Through experience and information about previously submitted bids buyers will learn and come to form correct expectations about the seller’s threshold level. This will, everything else equal, result in buyers submitting bids that are significantly below below the posted price, and thus will have a negative effect on the seller’s expected profits.
 2. **Competition**. When there are fewer objects for sale, it pressures buyers into submitting earlier bids under the NYOP, because it is the first bid above the threshold level that wins the object. The allocation rule in the NYOP is hence forward referred to as First-Come-First-Served (FCFS). The pressure to submit an earlier bid will, everything else equal, imply that buyers have less time available to discover the threshold level. And hence buyers will to a lesser extend try to shade their bids, or alternatively not at all engage in bid-shading and instead simply use the buyout option. This will have a positive effect on the seller’s expected profits. *[Competition exists in auctions formats, since here the allocation rule is that the buyer with the highest (HIGH) bid wins the auction.]*
 
-### Treatments
+Participants in the experiments will all play the role of buyers. The actions of the seller is carried out by a computer. The seller chooses a posted price and threshold level. The buyers are always presented to the posted price.
+
+The values of buyers, the seller’s posted price and threshold level are all randomly drawn, similar to Shapiro and Zillante (2009).
+> Each period participants’ values were chosen randomly from a uniform distribution over $[a_t , a_t + 400]$ … Values of $a_t$ were different in each of the 12 rounds of the treatments and were randomly drawn from U(0, 1600). Thus the lowest possible value distribution was U(0, 400) and the highest was U(1600, 2000). The overall range of values between 0 and 2000 … Participants received no information on the distribution of values other than the information they saw on their screens (value and … list price). …
+> The seller’s posted price was set at the midpoint of the value distribution, $p_t = a_t + 200$. The seller’s marginal cost was set equal to $a_t$ . Thus … $p_t$ was equal to the monopoly price … Once the value distribution and posted prices were established threshold prices were created. The threshold values were drawn uniformly between the seller’s marginal cost, $a_t$ , and the posted price, $p_t$ …
+
+#### Treatments
 
 ![Fig XXX: Overview of the five treatments](file:///Users/jonassekamane/Dropbox/Economics/Courses/E14/Experiments%20in%20Economics/FixedAuctionNYOP/EEPaper/Figures/Treatments.svg)
 
 The two main treatments are; second-price auction (*AUCTION_0*) and NYOP (*NYOP_0*). 
-In both buyers can repeatedly submit bids (repeated bidding). In the auction buyers can submit a higher bid out-bidding others or oneself. In the NYOP a buyer can submit a bid, if the bid is above the threshold level, the buyer wins the object and the auction ends. If the bid is rejected, the buyer can re-submit a new higher bid. This is the individual channel in which learning can happen. 
+In both buyers can repeatedly submit bids (repeated bidding). In the auction buyers can submit a higher bid out-bidding others or oneself. The auctions ends when the clock runs out, and the winner is the highest bidder. In the NYOP a buyer can submit a bid, if the bid is above the threshold level, the buyer wins the object and the auction ends. If the bid is rejected, the buyer can re-submit a new higher bid. This is the individual channel in which learning can happen. The NYOP ends once the seller receives a bid above the sellers threshold level. If no bids submitted then NYOP ends when the clock runs out.
+
 In both treatments all previously submitted bids are visible to all (affiliated values). Buyers can use this information to form and update expectations about the value of other buyers and about the seller’s threshold level (in NYOP). This is the common channel through which learning can happen. Once the object is sold and the “auction ends”, the posted price along with the winning bid is displayed to all buyers, before the next “auction” or round initiates. This is done to avoid any confusion about the final selling price, since our interest is learning and how buyers form expectations about the treshold level. Displaying this information hopefully helps us minimise the effects of expectation errors. 
 In both treatments a single unique unit is put up for sale (single unit). This together with the respective allocation rule introduces competition into both treatments. A comparison of these two treatments determines which mechanism gives the highest revenue. It is also possible to evaluate the efficiency of the two mechanisms[^1]. However this seems unproductive as the NYOP would most likely be inefficient. Efficiency in the NYOP requires that the buyer with the highest value was fastest to evaluate the posted price, form expectations and the fastest to submit a bid above the threshold level. The FCFS allocation rule in NYOP does not promote efficiency. 
 
@@ -78,16 +95,22 @@ Another way in which price discovery will change is by restricting the common ch
 
 ### Participants: sample size and motivation.
 
+
+### Technology and execution
+Mozilla Labs’ TogetherJS. Platform independent (PC, Mac, Smartphone, Tablet, etc). Experiment not restricted to a lab setting, but can be executed in classrooms, cafeterias, etc. And can be executed online. Payout in cash, or using micropayment service (MobilePay, Paypal, etc).
+
 ### etc.
 
+
 ## Evaluating experiment -- interpreting results
+
 
 ## References
 
 ## Appendix
 
 
-
+### Ulriks comments on commitment paper (DELETE THIS)
 > (1) Du er nødt til at begrunde, hvorfor du kigger på single-unit, private information-auktioner. Hvis forklaringen er, at det er simplest (hvilket er en helt legitim begrundelse!), så skal du skrive det.
 
 > (2) Du skal definere meget præcist **proceduren ved second-price auction, NYOP og fixed price selling**. Dvs. beskriv de tre procedurer i detaljer. Du skal også strukturere din litteraturgennemgang bedre og beskrive resultaterne. Hvis der eksisterer sammenligningsstudier i forvejen, så skriv evt. konklusionerne op i tabelform. (Tabeller bruges ofte i meta-studier til at give læseren et overblik over resultater og metoder i de enkelte studier.)
