@@ -21,19 +21,19 @@ By "secret" I mean: The threshold level or reserve prices is not directly reveal
 
 ## Bidding
 * Single bid: Buyers have one bid. If this bid is rejected they are not allowed to submit a new bid.
-* Repeated bidding: If a buyer's bid is rejected, he can submit a new bid. Buyers can bid as many times as they like. 
+* Repeated bidding: If a buyer's bid is rejected, he can submit a new bid. Buyers can bid as many times as they like.
 
 Single bid/repeated bidding is not relevant when only the BUY option. No treatmeant for HIGH (but included for comparison) -- instead calculate based on the buyers' assigned values who would wins, e.g. find who has the highest value.
 
-Trade-off for buyers in repeated-bidding, FCFS setting; 
+Trade-off for buyers in repeated-bidding, FCFS setting;
 
 - submit lower initial bid, possibly above threshold level, which would give the buyer a higher payoff.
 - but also higher probability of rejection; rejecting and resubmitting new bid is wasted time, in which other buyers might "beat you to the punch".
 
-Price/Bidding rule: The winner pays the second highest price, since this rule is the common theoretical benchmark. 
+Price/Bidding rule: The winner pays the second highest price, since this rule is the common theoretical benchmark.
 
-* Prehaps implemented by having proxy bidding; bids increase incrementally, but buyers can submit thier MAX BID. [Could also possible overcome issuses regarding snipping, if MAX BIDs are evaluated when bidding ends?]. 
-* 
+* Prehaps implemented by having proxy bidding; bids increase incrementally, but buyers can submit thier MAX BID. [Could also possible overcome issuses regarding snipping, if MAX BIDs are evaluated when bidding ends?].
+*
 
 ## Infomation
 * Private values: Buyer can see all ones own previously rejected bids.
@@ -44,4 +44,4 @@ Infomation about other bids might be decisive when having to determine the effec
 
 ## Complications
 * The time preference/impatience of buyers:
-* The buyers' attitutes towards risk: 
+* The buyers' attitutes towards risk:
