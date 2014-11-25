@@ -13,12 +13,9 @@ This paper is structured as follows. First the various prices mechanisms (posted
 With my experiment I would like to bridge the gab between auctions and NYOP. I will conduct an experiment that compares the revenue of an auction and NYOP. 
 
 ### Posted Price:
+The simplest and most common price mechanism is a posted price (also known as listed price, or take-it-or-leave-it offer). You encounter this price mechanism everyday when going to the supermarket or a retail shop. Here the seller proposes and sets the price. The price is visible to all, and buyers can only choose to buy the item at the posted price, or choose not to buy. The item is (usually) sold to the first buyer willing to make the purchase. There is often no official count down or time limit on the offer. However, 1) if only a single and unique item is put up of for sale, then the first-come-first-served (FCFS) allocation rule imposes a sort of time pressure on competing buyers to swiftly make their purchasing decision. (If multiple items are put up for sale, and buyers desire at most one item each, then competition would be less fierce and the time pressure weaker). 2) Occasionally assortments change and unsold items are removed[^2]. While the individual seller might prefer no time limit, consumer-to-consumer marketplaces like DBA.dk, impose a limit. One motivation for this is undoubtedly that the marketplace tries to balance the buyers’ signal-to-noise ratio in terms of desirable items when browsing through items. A time limit is a simple measure restricting the accumulation of unsold and hence undesirable items. Besides the simplicity, familiarity and generality of the posted price mechanism, a main advantage is that the seller has full control over the final price. If sellers are risk averse this may be the decisive feature when picking a price mechanism. A disadvantage for sellers is the unspecific transfer date, especially if the there are costs associated with storage of the item or if the item is perishable. This of course ties into an other main disadvantage – the lack of a price discovery process. What is the optimal posted price that the seller should set? … setting too low a price and the item is sold quickly, setting too high and the item is sold slowly or not at all … the seller is uncertain about the value of the item … seller’s own valuation… the highest value among buyers … a more prevalent problem when one considers selling a single unique item.
 
-Pros:
-* Seller has control over price.
-
-Cons:
-* No price discovering-mechanism, with single object sale
+[^2]: Often one or several price reductions are attempted before the unsold item is removed, but these dynamics are beyond the scope of this paper.
 
 ### Name-your-own-price (NYOP) and haggling:
 
