@@ -90,13 +90,21 @@ Why use an experiment to investigate auctions and the NYOP mechanism? Wouldn’t
 To try and explain the resulting difference between auctions and NYOP, I will compare the NYOP results to three alternative NYOP treatments. My hypothesis is that in particular two counter-acting factors effects the results of the NYOP mechanism:
 
 1. **Learning** or **Price discovery**. Through experience and information about previously submitted bids buyers will learn and come to form correct expectations about the seller’s threshold level. This will, everything else equal, result in buyers submitting bids that are significantly below the posted price, and thus will have a negative effect on the seller’s expected revenue.
-2. **Competition**. When there are fewer objects for sale, it pressures buyers into submitting earlier bids under the NYOP, because the first bid above the threshold level wins the object. The allocation rule in the NYOP is hence forward referred to as First-Come-First-Served (FCFS). The pressure to submit an earlier bid will, everything else equal, imply that buyers have less time available to discover the threshold level. And hence buyers will to a lesser extend try to shade their bids, or alternatively not at all engage in bid-shading but instead simply use the ‘buy’ option. This will have a positive effect on the seller’s expected revenue. *[Competition exists in auctions formats, since here the allocation rule is that the buyer with the highest (HIGH) bid wins the auction.]* *[Comment on the finding from Shapiro and Zillante (2009), that its new buyers that drive the results of higher revenue vs posted price. When introducing competition/single-unit, you risk that its “only” new buyers that manage to acquire the item, and hence lower price/revenue than posted price.]*
+2. **Competition**. When there are fewer objects for sale, it pressures buyers into submitting earlier bids under the NYOP, because the first bid above the threshold level wins the object. The allocation rule in the NYOP is hence forward referred to as First-Come-First-Served (FCFS). The pressure to submit an earlier bid will, everything else equal, imply that buyers have less time available to discover the threshold level. And hence buyers will to a lesser extend try to shade their bids, or alternatively not at all engage in bid-shading but instead simply use the ‘buy’ option. This will have a positive effect on the seller’s expected revenue[^5]. As earlier noted Shapiro and Zillante (2009) found that an important factor increasing revenue in the NYOP, was the participation of new buyer that were not able to purchase at the posted price. Whether fewer objects lead to higher revenue, will likewise depend on whether it is mainly new buyers that manage to acquire the item.
 
-Participants in the experiments will all play the role of buyers. The actions of the seller is carried out by a computer. The seller chooses a posted price and threshold level. The buyers are always presented to the posted price.
+[^5]: Likewise competition exists in auctions formats, since here the allocation rule determines that the buyer with the highest (HIGH) bid wins the auction.
 
-The values of buyers, the seller’s posted price and threshold level are all randomly drawn, similar to Shapiro and Zillante (2009).
-> Each period participants’ values were chosen randomly from a uniform distribution over $[a_t , a_t + 400]$ … Values of $a_t$ were different in each of the 12 rounds of the treatments and were randomly drawn from U(0, 1600). Thus the lowest possible value distribution was U(0, 400) and the highest was U(1600, 2000). The overall range of values between 0 and 2000 … Participants received no information on the distribution of values other than the information they saw on their screens (value and … list price). …
-> The seller’s posted price was set at the midpoint of the value distribution, $p_t = a_t + 200$. The seller’s marginal cost was set equal to $a_t$ . Thus … $p_t$ was equal to the monopoly price … Once the value distribution and posted prices were established threshold prices were created. The threshold values were drawn uniformly between the seller’s marginal cost, $a_t$ , and the posted price, $p_t$ …
+Participants in the experiments will all play the role of buyers. Each session will have 5 participants. The actions of the seller is carried out by a computer. The seller chooses a posted price and threshold level. The buyers are always presented to the posted price.
+
+The values of buyers, the seller’s posted price and threshold level are all randomly drawn from uniform distributions, similar to Shapiro and Zillante (2009). In each period the buyers’ values are drawn from $U(a_t , a_t + 400)$, where $a_t$ is drawn   in each round from $U(0, 1600)$. The lowest value distribution thereby becomes $U(0, 400)$ and the highest $U(1600, 2000)$, and values can range between 0 and 2000. Buyers only see their own value and the posted price, they don’t receive any information on the distributions. The posted price is the midpoint of the value distribution $p_t = a_t + 200$, and the seller’s marginal cost is $a_t$. Hence the posted price is the monopoly price. The threshold level is drawn from $U(a_t, p_t)$. In the auction only the buyers’ values and posted price is used. There is no reserve price or secret reserve price, but bids have to be strictly positive.
+
+Each session has 5 treatments, and 8 rounds per treatment. So each participant goes through a total of 40 rounds. The duration  of each round in seconds is drawn randomly from the uniform distribution $U(60, 120)$. Participants will be told that the duration varies, and told that “each rounds may last a couple of minutes”, but otherwise not be given any information about the distribution and there is no visible count down. As mention earlier this is done to avoid snipping and encourage early bidding in the auction. The NYOP treatments may also end when all items have been sold. The order of treatments will also vary with session. Sessions will use one of the following five orderings:
+{AUCTION_0, NYOP_0, NYOP_P, NYOP_S, NYOP_M}
+{AUCTION_0, NYOP_M, NYOP_S, NYOP_P, NYOP_0}
+{AUCTION_0, NYOP_P, NYOP_M, NYOP_0, NYOP_S}
+{NYOP_M, NYOP_P, NYOP_0, NYOP_S, AUCTION_0}
+{NYOP_S, NYOP_M, NYOP_0, NYOP_P, AUCTION_0}
+The experimental procedure is structured as follows; at the beginning the session participants are given instructions to either the first auction treatment or the first 4 NYOP treatments. Once these treatments are over, the participants are given instructions to the remaining treatment(s). Each new treatment is announced before it begins so participants are aware of the chang in environment. At the end of the session two treatments are randomly drawn and participants are paid based on their total earnings (value minus bid/price) in those two treatments.
 
 #### Treatments
 
@@ -121,14 +129,11 @@ In this treatment buyers are only allowed to submit one bid. If the bid is rejec
 **Private value treatment** (*NYOP_P*).
 Another way in which price discovery will change is by restricting the common channel. This the the purpose of the private value treatment. Here buyers can only see their own bids. Buyers still have the ability to learn the threshold level though the individual channel, but they now have less information about competing buyers. Comparing the results from this treatment with the previous might help to answer how buyers discover the threshold level. Whether its by individually and repeatedly submitting bids or mainly through observing what others bid. When this treatment removes the option to observe others, do buyers then submit more individual bids? And are they further from guessing the true threshold level? And ultimately what are the effects on revenue? 
 
-
-### Participants: sample size and motivation.
+### Participants: sample size, motivation and incentive problems.
 
 
 ### Technology and execution
-Mozilla Labs’ TogetherJS. Platform independent (PC, Mac, Smartphone, Tablet, etc). Experiment not restricted to a lab setting, but can be executed in classrooms, cafeterias, etc. And can be executed online. Payout in cash, or using micropayment service (MobilePay, Paypal, etc).
-
-### etc.
+The experiment will be built as a web-application. It will rely on Mozilla Labs’ TogetherJS to enable simultaneous action of participants. The reason for building the experiment as a web-application is that it then becomes independent of the platform (PC, Mac, Smartphone, Tablet, etc). And thus the experiment is not strictly restricted to a ‘lab’ setting, but can be executed in classrooms, cafeterias, as well as over the internet. Participants are paid in cash, or using micropayment service (MobilePay, Paypal, etc). I would like to run the experiment three times; inside the lab, in-person outside the lab, online.
 
 
 ## Evaluating experiment -- interpreting results
@@ -137,19 +142,3 @@ Mozilla Labs’ TogetherJS. Platform independent (PC, Mac, Smartphone, Tablet, e
 ## References
 
 ## Appendix
-
-
-### Ulriks comments on commitment paper (DELETE THIS)
-> (1) Du er nødt til at begrunde, hvorfor du kigger på single-unit, private information-auktioner. Hvis forklaringen er, at det er simplest (hvilket er en helt legitim begrundelse!), så skal du skrive det.
-
-> (2) Du skal definere meget præcist **proceduren ved second-price auction, NYOP og fixed price selling**. Dvs. beskriv de tre procedurer i detaljer. Du skal også strukturere din litteraturgennemgang bedre og beskrive resultaterne. Hvis der eksisterer sammenligningsstudier i forvejen, så skriv evt. konklusionerne op i tabelform. (Tabeller bruges ofte i meta-studier til at give læseren et overblik over resultater og metoder i de enkelte studier.)
-
-> (3) Du skal også tænke over, hvornår NYOP, fixed price selling og second-price auction kan være gode. Min hypotese er, at NYOP bedst fungerer, når køberens købsbeslutning kan observeres. Fx NYOP i Jensens Bøfhus fungerer - vil jeg tro - bedre, hvis kunden betaler en tjener fysisk i restauranten, end hvis køberen køber et gavekort via internettet. Og du skal også overveje, hvorfor NYOP oftest bruges på museer, og ikke så ofte på fx bettingsider på internettet. Så du skal klæde læseren på til at kunne træffe en beslutning om, **hvilken salgsmekanisme køberen skal anvende - og denne beslutning afhænger ikke kun af resultaterne fra det eksperiment**, du foreslår. Salgskonteksten (fx varen/tjenesten og markedet) spiller også en rolle. :-)
-
-> Men ja, en god og **præcis introduktion** til din artikel og en **grundig litteraturgennemgang** vil nok være en rigtigt god idé. Og så skal du huske på Harrison-kritikken af auktionseksperimenter (dvs. incitamentsproblemer), jf. min forelæsning. http://www.jstor.org/discover/10.2307/1827930?uid=3737880&uid=2&uid=4&sid=21104236754231 Du kan også overveje i denne forbindelse at kigge nærmere på "quantal response equilibrium" (QRE) og læse om auktionseksperimenter og QRE.
-
-
-# Random notes from when writing (DELETE THIS)
-What are the differences and what are the similarities? 
-
-Secondly, risk and uncertainty come into play. No information about other bids may feel like increased competing pressure, and buyer might choose to submit higher bids in this case.  (Risk, risk adverse).
