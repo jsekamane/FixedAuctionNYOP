@@ -13,3 +13,12 @@
 /Latex/*.log
 /Latex/*.synctex.gz
 /Latex/*.toc
+/Presentation/*.aux
+/Presentation/*.bbl
+/Presentation/*.blg
+/Presentation/*.log
+/Presentation/*.synctex.gz
+/Presentation/*.toc
+/Presentation/*.snm
+/Presentation/*.out
+/Presentation/*.nav
