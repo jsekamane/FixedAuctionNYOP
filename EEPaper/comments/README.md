@@ -51,18 +51,28 @@
 ## Aksel's comments on first draft
 
 > To “Various price mechanisms”
+
 -	In figure 1 I think there is a typo. If the buyer chooses to buy at the posted full price p, the seller’s payoff should be p-c instead of 0-c.
+
 -	I think it should be clearer that the English auction is a first-price auction. It can be read as it could be both first and second-price.
+
 -	When using the linkage principle, you are comparing to a second price sealed bid auction right?
-o	Relies on assumption of interdependent values; very reasonable for arts etc.
+
+- -	Relies on assumption of interdependent values; very reasonable for arts etc.
+
 -	Is it correctly understood that the posted price in NYOP is the effective maximum price?
-o	Does this make you expect lesser revenue from NYOP than the English auction?
+
+- -	Does this make you expect lesser revenue from NYOP than the English auction?
 
 > To the experiment
+
 -	Wouldn’t you expect the competition effect from extra bids from buyers that couldn’t afford the posted price to be same between and English auction and the NYOP?
+
 -	Why do you choose to make the posted price the midpoint of the distribution of the buyer’s valuation?
-o	This means that an expected half of the buyers have an incentive to choose “buy” and pay the posted price.
-o	In the English auction the final price will roughly be second highest valuation of the buyers. When half the buyers then have a value above the maximum price in the NYOP, don’t you then make sure that the revenue from NYOP is less than from the English auction?
+
+- - This means that an expected half of the buyers have an incentive to choose “buy” and pay the posted price.
+
+- - In the English auction the final price will roughly be second highest valuation of the buyers. When half the buyers then have a value above the maximum price in the NYOP, don’t you then make sure that the revenue from NYOP is less than from the English auction?
 
 ## Comments after presentation
 
