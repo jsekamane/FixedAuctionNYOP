@@ -18,23 +18,28 @@ for N = 2:10
     % Auction: Second highest
     Auction = [Auction, mean(Values_sort(:,(N-1)))];
     
+    % Threshold level
+    Threshold = repmat(rand(I, 1).*exp_2nd, [1 N]);
+    
     % NYOP (mid-point)
     Values_NYOP = Values_sort;
+    Values_NYOP(Values_NYOP < Threshold) = NaN;
     Values_NYOP(Values_NYOP > 1/2) = 1/2;
     % random who is fastest.
-    NYOP_m_fast = [NYOP_m_fast, mean(mean(Values_NYOP))];
+    NYOP_m_fast = [NYOP_m_fast, nanmean(nanmean(Values_NYOP))];
     % Best case scenarior / largest
-    Values_NYOP_max = max(Values_NYOP, [], 2);
-    NYOP_m_best = [NYOP_m_best, mean(Values_NYOP_max)];
+    Values_NYOP_max = nanmax(Values_NYOP, [], 2);
+    NYOP_m_best = [NYOP_m_best, nanmean(Values_NYOP_max)];
     
     % NYOP (Second highest): 
     Values_NYOP = Values_sort;
+    Values_NYOP(Values_NYOP < Threshold) = NaN;
     Values_NYOP(Values_NYOP > exp_2nd) = exp_2nd;
     % random who is fastest.
-    NYOP_2nd_fast = [NYOP_2nd_fast, mean(mean(Values_NYOP))];
+    NYOP_2nd_fast = [NYOP_2nd_fast, nanmean(nanmean(Values_NYOP))];
     % Best case scenarior / largest
-    Values_NYOP_max = max(Values_NYOP, [], 2);
-    NYOP_2nd_best = [NYOP_2nd_best, mean(Values_NYOP_max)];
+    Values_NYOP_max = nanmax(Values_NYOP, [], 2);
+    NYOP_2nd_best = [NYOP_2nd_best, nanmean(Values_NYOP_max)];
 end
 
 NYOP_m_error = (NYOP_m_best - NYOP_m_fast)/2;
