@@ -81,3 +81,11 @@
 > Haggling costs: Add monetary cost (minor). Could also be a time delay after bidding, but this might complicate (as participants time preference is unobservable).
 
 > Clarify the results from Shapiro and Zillante (2009). Might be differcult to understand exactly why NYOP gives higher revenue than posted price.
+
+> Explain all details of the experiment
+
+> Motivate treatments (What insight can they give?)
+
+> Hypotesis (What do you want to investigate)
+
+> No need to frame the goods
