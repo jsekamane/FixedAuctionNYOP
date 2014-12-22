@@ -19,6 +19,8 @@
 \usepackage{caption}
 \usepackage{subcaption}
 \usepackage{eurosym}
+\usepackage{wrapfig}
+
 
 \usepackage{titling}
 \newcommand{\subtitle}[1]{%
@@ -53,12 +55,19 @@
 % TITLE PAGE
 \title{\Large {\bf Auction or haggling -- what should the seller choose?} \\ A look at the interaction between learning and competition in Name-Your-Own-Price auctions.}
 \subtitle{(Third draft)}
-\author{Jonas K. Sekamane}
-\date{18. December 2014\thanks{This paper is written for the seminar \emph{Experiments in Economics} at the Department of Economics, University of Copenhagen in the autumn 2014. I would like to thank the participants, my supervisor Ulrik Haagen Nielsen and opponent Aksel Thomsen for their questions and comments.}}
+\author{Jonas K. Sekamane (LQF640)}
+\date{22. December 2014\thanks{This paper is written for the seminar \emph{Experiments in Economics} at the Department of Economics, University of Copenhagen in the autumn 2014. I would like to thank the participants, my supervisor Ulrik Haagen Nielsen (ulrik.haagen.nielsen@gmail.com) and opponent Aksel Thomsen for their questions and comments. Presented the 4. December 2014.}}
 
 % NEW COMMANDS AND TYPES
 \newcolumntype{x}[1]{%
 >{\raggedright\hspace{0pt}}p{#1}}%
+
+% Remove heading on TOC
+\makeatletter
+\renewcommand\tableofcontents{%
+    \@starttoc{toc}%
+}
+\makeatother
 
 
 \begin{document}
@@ -71,17 +80,17 @@
 		
 	\newpage
 	
-	\clearpage %  Reset page numbers to 1
-	\pagenumbering{arabic}
-	\setcounter{page}{1}
-	
 	\begin{abstract}
 		{This paper investigates the optimal design choice when selling a single and unique item (such as art, antiques, or collectibles). The paper compares and discusses three price mechanisms: the posted price mechanism, the Name-Your-Own-Price (NYOP) mechanism and the English auction. The first and novel contribution of this paper is the introduction of the NYOP mechanism under supply constraints. The paper proposes a lab experiment that will rank the revenue of the NYOP and the English auction. This comparison of revenue is the second novel contribution of the paper. Additionally the experiment will investigate how the NYOP is affected by competition among buyers and by buyers learning the seller's threshold level. Therefore the experiment focuses on the behaviour of buyers. The third novel contribution of the paper is how competition and learning affect behaviour.}
 	\end{abstract}
 	
-	%\tableofcontents
+	\tableofcontents
 	
-	%\newpage
+	\newpage
+	
+	\clearpage %  Reset page numbers to 1
+	\pagenumbering{arabic}
+	\setcounter{page}{1}
 
 	\section{Introduction}
 
@@ -139,12 +148,12 @@
 
 	Auctions have many advantages. One is the price discovery process, which may extract additional rents from the buyer, and lead to higher expected revenue that the posted price mechanism. Higher expected revenue specifically happens when the posted price is set below the value of the second highest buyer (Krishna 2009, pp.71-73). With an auction the seller avoids the problem of having set a too low posted price. The price discovery process is an especially appealing feature when selling scarce goods where the seller is uncertain about the value. Another advantage is that standard auctions are efficient since they allocate the item to the buyer with the highest value (see footnote~\ref{footnote:efficient}). A disadvantage is that the seller has no control over the final price. This may especially be problematic for risk averse sellers. Reserve prices or secret reserve price are sometimes proposed as solutions to this, but their effect on revenue remains ambiguous (Haruvy and Leszczyc, 2010. Kagel and Levin, 2011).
 
-	For the experiment I choose the English auction, first and foremost, because this format has most features in common with the repeated-bidding NYOP, hence it is easier to interpret the results as {\it ceteris paribus}. Secondly, because this auction format has an element of learning and competition build in, which is the focus of the additional NYOP treatments. Learning happens in the English auction since bidders can bid repeatedly and see the bids of other buyers, e.g. it has the same three learning channels. Competition is present in all auctions, because of scarce supply and an allocation rule that determines that the buyer with the highest bid wins the item (HIGH). Auctions with `hard close' (a fixed, announced end time) often see snipping behaviour. Buyers simply wait until the very last minutes or seconds before they submit bids. The rationale is that by submitting last-minute bids the buyer does not reveal information to other buyers. Often it will be a small subset of sophisticated buyers that engage in snipping. Since I am not interested in studying the snipping behaviour of a subset of buyers, but rather learning and group learning, the experiment will use randomly varying durations, also known as a {\it candle auction}.
+	For the experiment I choose the English auction, mainly because this format has most features in common with the repeated-bidding NYOP, hence it is easier to interpret the results as {\it ceteris paribus}. Secondly, because this auction format has an element of learning and competition build in, which is the focus of the additional NYOP treatments. Learning happens in the English auction since bidders can bid repeatedly and see the bids of other buyers, e.g. it has the same three learning channels. Competition is present in all auctions, because of scarce supply and an allocation rule that determines that the buyer with the highest bid wins the item (HIGH). Auctions with `hard close' (a fixed, announced end time) often see snipping behaviour. Buyers simply wait until the very last minutes or seconds before they submit bids. The rationale is that by submitting last-minute bids the buyer does not reveal information to other buyers. Often it will be a small subset of sophisticated buyers that engage in snipping. Since I am not interested in studying the snipping behaviour of a subset of buyers, but rather learning and group learning, the experiment will use randomly varying durations, also known as a {\it candle auction}.
 
 	\section{Literature review}
 
 	This section contains a review of the theoretical and experimental results in the literature. The review is very selective due to space limitation. Note that supply is unconstrained in all the articles on NYOP, and it is not clear how or if their results carry over to a NYOP mechanism with competition.
-% With emphasis on explaining difference in revenue between the posted price, NYOP, and auctions. Some attention will also be given to learning in the NYOP. 
+	% With emphasis on explaining difference in revenue between the posted price, NYOP, and auctions. Some attention will also be given to learning in the NYOP. 
 
 	{\bf NYOP vs posted price mechanism}. The experiment by Shapiro and Zillante (2009) find that revenue is higher in NYOP than under the posted price mechanism. The price presented in the NYOP should act as an upper limit on the final price, and one might intuitively have expected that revenue was lower. E.g. buyers that could afford the posted price, would use the NYOP option in an attempt to get the item cheaper. It is in fact a weakly dominate strategy to bid in the setup of Shapiro and Zillante (2009), since buyers can `buy' after their bid has been rejected. What drives their results is 1) new buyers, that could not afford the item at the posted price (e.g. higher quantity of sold items), and 2) buyers with values much higher than the posted price that still use the `buy' option and pay the posted price. They explain the latter with non-monetary mental cost or haggling cost associated with bidding which buyers avoid when they use the `buy' option.
 
@@ -161,7 +170,7 @@
 	\section{Experiment}
 
 	Before going into the details of the experiment, I will motivate why the experimental approach is well suited. There are two major problems with the analytical approach. First, the analytical solution often lead to multiple equilibrium or is intractable due to the complexity of the model. Secondly, the actual characteristics of buyers and hence their behaviour is vastly unknown. The literature has well established concepts such as `risk aversion' or `anchoring effect' -- but whether, why or when buyers are risk averse remains a mystery in most settings. Haruvy and Leszczyc touch upon these issues in their discussion of traditional auctions vs online auctions:
-	\blockquote[Haruvy and Leszczyc, 2010 pp.61-62]{\emph{Traditional auction theory builds heavily on bidder rationality, in many cases risk neutrality, bidder symmetry, revenue and strategic equivalences, and other key properties that are … known to be violated in traditional auction settings as well … In our opinion, based on the research reviewed here, questions of optimal design choice in online auctions can often be addressed empirically and have as much to do with bidder preferences, bidder search, mental processing of information, and issues of trust and reputation as they do with the traditional focus on equilibrium predictions. }}
+	\textquote[Haruvy and Leszczyc, 2010 pp.61-62]{\emph{Traditional auction theory builds heavily on bidder rationality, in many cases risk neutrality, bidder symmetry, revenue and strategic equivalences, and other key properties that are … known to be violated in traditional auction settings as well … In our opinion, based on the research reviewed here, questions of optimal design choice in online auctions can often be addressed empirically and have as much to do with bidder preferences, bidder search, mental processing of information, and issues of trust and reputation as they do with the traditional focus on equilibrium predictions.}}
 
 Although the posted price mechanism has enter the discussion on equal footing with NYOP and English auctions so far, in the experiment only the latter two mechanisms will be investigated. Primarily to keep the total number of treatments low and feasible. And secondarily the posted price mechanism with a FCFS allocation rule, is unlikely to return interesting results. 
 
@@ -172,12 +181,14 @@ Although the paper has discussed haggling costs, and theoretical results hinge o
 
 	This experiment is interested in studying the behaviour of buyers under different mechanisms. Participants in the experiment all play the role of buyers. To simplify and control for the behaviour of the seller, the actions of the seller is carried out by a computer. The seller chooses a posted price and threshold level.
 
+	%\begin{wrapfigure}[9]{r}{0.6\textwidth}
 	\begin{figure}[h]
 	        \centering
 	        \caption{Overview of values and distributions}
-	        \includegraphics[width=0.7\textwidth]{Figures/Distribution}
+	        \includegraphics[width=0.6\textwidth]{Figures/Distribution}
 			\label{fig:distribution}
 	\end{figure}
+	%\end{wrapfigure}
 
 	In each round $t$, the values of buyers, the seller's posted price and threshold level are randomly drawn from uniform distributions, see figure~\ref{fig:distribution}. In each round the buyers' values are drawn from $U(a_t , a_t + 400)$, where $a_t$ is drawn from $U(0, 1600)$. The lowest value distribution in any round thereby becomes $U(0, 400)$ and the highest $U(1600, 2000)$ and overall values can range between 0 and 2000. This price range resembles the low-valued and majority of items found on dba.dk, lauritz.com and auctionata.com. Buyers only see their own value and the posted price, they do not receive any information on the distributions. The posted price is set equal to the theoretical expected second highest value of buyers, $p_t = a_t + \frac{N-1}{N+1}400$. On average the English auction should thus give the posted price. As discussed below the NYOP mechanism will on average also give the posted price, if the effect of competition is sufficiently strong. The seller's marginal cost is $a_t$. The threshold level is drawn from $U(a_t, p_t)$. By randomising variables it will be possible to normalise and test which effect the various values of buyers have on the results. In the English auction only the buyers' values and posted price is used. There is no reserve price or secret reserve price, but bids have to be strictly positive.
 	
@@ -186,7 +197,7 @@ Although the paper has discussed haggling costs, and theoretical results hinge o
 	\begin{figure}
 	        \centering
 	        \caption{Simulation of final price in auction and NYOP for varying number of buyers}
-	        \includegraphics[width=\textwidth]{Figures/FinalPrice_Auction-NYOP}
+	        \includegraphics[width=0.7\textwidth]{Figures/FinalPrice_Auction-NYOP}
 			\label{fig:FinalPrice_Auction-NYOP}
 			\Fignote{In the NYOP the posted price is the theoretical expected second highest value of buyers: $\frac{N-1}{N+1}$.}
 	\end{figure}
@@ -209,22 +220,18 @@ Although the paper has discussed haggling costs, and theoretical results hinge o
 	\label{sec:treatments}
 
 	There are five treatments see figure~\ref{fig:treatments}, referred to as $AUCTION_0$, $NYOP_0$, $NYOP_P$, $NYOP_S$, and $NYOP_M$. The $NYOP_0$ treatment is the control. The two main treatments are: English auction ($AUCTION_0$) and NYOP ($NYOP_0$).
-	In both buyers can repeatedly submit bids (repeated bidding). In the auction buyers can submit a higher bid out-bidding others or themselves. The auctions ends when the clock runs out, and the winner is the highest bidder. In the NYOP a buyer can `buy' or submit a bid, if the bid is above the threshold level, the buyer wins the object and the auction ends. If the bid is rejected, the buyer can `buy' or resubmit a new higher bid. This is the \emph{individual channel} in which learning can happen. The NYOP ends once a buyer uses the `buy' option or once the seller receives a bid above the sellers threshold level. If no one buys or if no succesful bid is submitted then the NYOP ends when the clock runs out.
-
-	In both treatments all previously submitted bids are visible to all (affiliated values). Buyers can use this information to form and update expectations about the value of other buyers and about the seller's threshold level (in NYOP). This is the \emph{common channel} through which learning can happen. Once the object is sold and the round ends, the posted price along with the winning bid is displayed to all buyers, before the next round initiates. This is done to avoid any confusion about the final selling price, since our interest is learning and how buyers form expectations about the threshold level. Displaying this information hopefully helps minimise the effects of expectation errors. And strengthens learning through the \emph{experience channel}.
-
-	In both treatments a single unique unit is put up for sale (single unit). This together with the respective allocation rule introduces competition into both treatments.
-
-	The three additional NYOP treatments, trying to disentangle the counteracting effects of learning and competition, are:
+	In both buyers can repeatedly submit bids (repeated bidding). In the auction buyers can submit a higher bid out-bidding others or themselves. The auctions ends when the clock runs out, and the winner is the highest bidder. In the NYOP a buyer can `buy' or submit a bid, if the bid is above the threshold level, the buyer wins the object and the auction ends. If the bid is rejected, the buyer can `buy' or resubmit a new higher bid. This is the \emph{individual channel} in which learning can happen. The NYOP ends once a buyer uses the `buy' option or once the seller receives a bid above the sellers threshold level. If no one buys or if no succesful bid is submitted then the NYOP ends when the clock runs out. In both treatments all previously submitted bids are visible to all (affiliated values). Buyers can use this information to form and update expectations about the value of other buyers and about the seller's threshold level (in NYOP). This is the \emph{common channel} through which learning can happen. Once the object is sold and the round ends, the posted price along with the winning bid is displayed to all buyers, before the next round initiates. This is done to avoid any confusion about the final selling price, since our interest is learning and how buyers form expectations about the threshold level. Displaying this information hopefully helps minimise the effects of expectation errors. And strengthens learning through the \emph{experience channel}. In both treatments a single unique unit is put up for sale (single unit). This together with the respective allocation rule introduces competition into both treatments. The three additional NYOP treatments, trying to disentangle the counteracting effects of learning and competition, are:
 
 	{\bf Multiple unit treatment} ($NYOP_M$). 
 	
-	\begin{figure}[h]
+	\begin{wrapfigure}[7]{r}{0.7\textwidth}
+	%\begin{figure}[h]
 	        \centering
 	        \caption{Competition and number of items for sale}
 	        \includegraphics[width=0.7\textwidth]{Figures/Competition-Items}
 			\label{fig:competition-items}
-	\end{figure}
+	%\end{figure}
+	\end{wrapfigure}
 	
 	By selling multiple units rather than a single unit competition among buyers is reduced, while the learning is unaffected. Winning bids are only displayed after the round ends, while bids below the threshold level are still shown to all. Buyers are not told how many unsold items remain, only the total number of units for sale. When the round ends the posted price and all winning bids are shown. Purchase prices and number of sold items are hidden until after the round ends, such that buyers have the same information as in $NYOP_0$. The number of units to sell in this treatment is somewhat arbitrary (see figure~\ref{fig:competition-items}). Minimum competition is as attended by selling $N-1$ units, and maximum by selling 1 unit. The multiple object treatment will sell $ceil(N/2)=3$ units. Competition changes in the multiple item treatment, while learning is unaffected. Compared to $NYOP_0$ changes in revenue will be due to decreased competition among buyers.
 
@@ -237,19 +244,6 @@ Although the paper has discussed haggling costs, and theoretical results hinge o
 	\subsection{Procedure of experiment}
 	
 	Each session has 5 treatments, and 8 rounds per treatment. Each participant goes through a total of 40 rounds. 8 rounds should be sufficient to uncover if learning takes place through the \emph{experience channel}, and not too long, such that it demotivates participants. The duration of each round in seconds is drawn randomly from the uniform distribution $U(60, 120)$. Participants will be told that the duration varies, and told that ``each rounds may last a couple of minutes'', but otherwise not be given any information about the distribution. There is no visible countdown. As mention earlier this is done to avoid snipping and encourage early bidding in the English auction. The NYOP treatments may end before the clock runs out, if all items have been sold. The order of treatments will vary with session. By varying the order one can afterwards test and ensure that the results are not due to one particular ordering (known as spill-over effects). The four last orders have been selected at random, but with the requirement that the auction treatment is either first or last. Since different instructions are needed, and to give participants a coherent experience. Sessions will use one of the five orderings found in table~\ref{tab:order}.
-
-	\begin{table}[ht]
-		\caption{Ordering of treatments (randomized)}
-		\begin{tabular}{l | l | l | l | l}
-			%{\bf a} 	& {\bf b} 		& {\bf c} 		& {\bf d} 		& {\bf e} \\
-			$AUCTION_0$	& $AUCTION_0$ 	& $AUCTION_0$ 	& $NYOP_M$ 		& $NYOP_S$ 	\\
-			$NYOP_0$ 	& $NYOP_M$		& $NYOP_P$		& $NYOP_P$		& $NYOP_M$	\\
-			$NYOP_P$ 	& $NYOP_S$		& $NYOP_M$		& $NYOP_0$		& $NYOP_0$	\\
-			$NYOP_S$	& $NYOP_P$		& $NYOP_0$		& $NYOP_S$		& $NYOP_P$	\\
-			$NYOP_M$	& $NYOP_0$		& $NYOP_S$		& $AUCTION_0$	& $AUCTION_0$	
-		\end{tabular}
-		\label{tab:order}
-	\end{table}
 	
 	The experimental procedure is structured as follows: at the beginning of the session participants are given instructions to either the first auction treatment or the first 4 NYOP treatments. Once the first treatments are over, the participants are given instructions to the remaining treatments. Each new treatment is announced before it begins so participants are aware of the change in environment. At the end of the session two treatments are randomly drawn and participants are paid based on their total earnings in those two treatments (see section~\ref{sec:participants-motivation}).
 
@@ -282,8 +276,8 @@ Although the paper has discussed haggling costs, and theoretical results hinge o
 	
 	\section{Conclusion}
 			
-	shortcomings of the experiment
-	- Sellers behaviour: The optimal threshold level of sellers. Can sellers threshold level actually be through of as drawn from some distribution, where there is a clear connection to value of buyers and the posted price. If sellers, do not commit to a threshold level, but are able to evaluate the bids of buyers, how will this then affect the results.
+	%shortcomings of the experiment
+	%- Sellers behaviour: The optimal threshold level of sellers. Can sellers threshold level actually be through of as drawn from some distribution, where there is a clear connection to value of buyers and the posted price. If sellers, do not commit to a threshold level, but are able to evaluate the bids of buyers, how will this then affect the results.
 	
 			
 	\newpage
@@ -298,17 +292,38 @@ Although the paper has discussed haggling costs, and theoretical results hinge o
 		\bibliography{ref}
 	\endgroup
 	
-	\section{Stylised illustration of treatments}
+	\newpage
+	\section{Appendix}
+
+	\subsection{Stylised illustration of treatments}
 	\label{app:stylised_treatments}
 	
-	\begin{figure}
+	\begin{figure}[h]
 	        \centering
 	        \caption{Overview of the five treatments}
-	        \includegraphics[width=\textwidth]{Figures/Treatments}
+	        \includegraphics[width=0.85\textwidth]{Figures/Treatments}
 			\label{fig:treatments}
 	\end{figure}
 	
-	\section{Example payments}
+	\newpage
+	
+	\subsection{Order of treatments}
+	\label{app:order_treatments}
+	
+	\begin{table}[ht]
+		\caption{Ordering of treatments (randomised)}
+		\begin{tabular}{l | l | l | l | l}
+			%{\bf a} 	& {\bf b} 		& {\bf c} 		& {\bf d} 		& {\bf e} \\
+			$AUCTION_0$	& $AUCTION_0$ 	& $AUCTION_0$ 	& $NYOP_M$ 		& $NYOP_S$ 	\\
+			$NYOP_0$ 	& $NYOP_M$		& $NYOP_P$		& $NYOP_P$		& $NYOP_M$	\\
+			$NYOP_P$ 	& $NYOP_S$		& $NYOP_M$		& $NYOP_0$		& $NYOP_0$	\\
+			$NYOP_S$	& $NYOP_P$		& $NYOP_0$		& $NYOP_S$		& $NYOP_P$	\\
+			$NYOP_M$	& $NYOP_0$		& $NYOP_S$		& $AUCTION_0$	& $AUCTION_0$	
+		\end{tabular}
+		\label{tab:order}
+	\end{table}
+	
+	\subsection{Example of payments}
 	\label{app:example_payment}
 
 	\begin{table}[ht]
@@ -329,7 +344,7 @@ Although the paper has discussed haggling costs, and theoretical results hinge o
 		\label{tab:payment}
 	\end{table}
 
-	\section{Expected payments}
+	\subsection{Expected payments}
 	\label{app:expected_payment}
 	
 	Assuming that buyers bid their true value, then in one round of the $AUCTION_0$ treatment the expected payment is the following. Where payment is the difference in expected values between the highest and second highest value distributed on $U[0,1]$ and then readjusted to fit the distribution described in section~\ref{sec:design}:
@@ -350,9 +365,6 @@ Although the paper has discussed haggling costs, and theoretical results hinge o
 	\[ \mathbb{E}[\mbox{payment if fastest bidders}] \times \mbox{Prob}[\mbox{fastest bidders}] \] 
 	\[  = \left( \left(1-\frac{N-1}{N+1}\frac{1}{2}\right) \times \left( \frac{N-1}{N} (800+400/2) + \frac{1}{N} \left(800+\frac{N-1}{N+1}400\right) \right) \right) \times \frac{ceil(N/2)}{N} \] 
 	\[	= 405 \approx 41\mbox{ kr.} \]
-	
-	
-	\newpage
-	\tableofcontents
+
 
 \end{document}
